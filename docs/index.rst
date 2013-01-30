@@ -14,18 +14,18 @@ that maintains Python.  We welcome your contributions to Python!
 Here are the basic steps needed to get :ref:`set up <setup>` and contribute a
 patch:
 
-1. :ref:`Get the source code <checkout>`::
+1. :ref:`获取源代码 <checkout>`::
 
       hg clone http://hg.python.org/cpython
 
-2. :ref:`Build Python <compiling>`.  On :ref:`UNIX <unix-compiling>`::
+2. 在 :ref:`UNIX <unix-compiling>`: :ref:`构建Python <compiling>`.  :
 
       ./configure --with-pydebug && make -j2
 
    On :ref:`Windows <windows-compiling>`, open the solution file
    :file:`PCbuild\\pcbuild.sln` in Visual Studio, select :menuselection:`Debug`,
    and :menuselection:`Build --> Build Solution`.
-3. :doc:`Run the tests <runtests>`::
+3. :doc:`运行测试 <runtests>`::
 
    ./python -m test -j3
 
@@ -33,8 +33,8 @@ patch:
    with :file:`./python.exe`.  On Windows, use :file:`PCbuild\\python_d.exe` or
    check the :ref:`Windows instructions <win-python.exe>`.  With Python 2.7,
    replace ``test`` with ``test.regrtest``.
-4. Make the :doc:`patch <patch>`.
-5. Submit it to the `issue tracker`_.
+4. 制作:doc:`patch <patch>`.
+5. 提交到。`issue tracker`_.
 
 
 快速链接
