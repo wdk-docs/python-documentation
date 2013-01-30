@@ -1,6 +1,6 @@
 .. _silencewarnings:
 
-Silence Warnings From the Test Suite
+从测试套件的沉默警告
 ====================================
 
 When running Python's test suite, no warnings should result when you run it

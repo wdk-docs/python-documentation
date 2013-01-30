@@ -1,6 +1,6 @@
 .. _runtests:
 
-Running & Writing Tests
+运行和编写测试
 =======================
 
 .. note::

@@ -1,6 +1,6 @@
 .. _compiler:
 
-Design of CPython's Compiler
+CPython的编译器的设计
 ============================
 
 

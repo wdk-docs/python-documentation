@@ -1,6 +1,6 @@
 .. _buildbots:
 
-Continuous Integration
+持续集成
 ======================
 
 To assert that there are no regressions in the :doc:`development and maintenance

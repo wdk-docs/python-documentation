@@ -1,6 +1,6 @@
 .. _developers:
 
-Developer Log
+开发日志
 =============
 
 This file is a running log of developers given commit privileges for Python.

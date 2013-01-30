@@ -1,6 +1,6 @@
 .. _langchanges:
 
-Changing the Python Language
+更改Python语言
 ============================
 On occasion people come up with an idea on how to change or improve Python as a
 programming language. This document is meant to explain exactly what changes

@@ -1,6 +1,6 @@
 .. _help:
 
-Where to Get Help
+从哪里获得帮助
 =================
 
 If you are working on Python it is very possible you will come across an issue

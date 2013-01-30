@@ -1,7 +1,7 @@
 .. _documenting:
 
 ==================
-Documenting Python
+记录的Python
 ==================
 
 The Python language has a substantial body of documentation, much of it
@@ -27,7 +27,7 @@ written using the :ref:`reStructuredText format <markup>` and contained in the
    docs@python.org or open an issue on the :ref:`tracker <reporting-bugs>`.
 
 
-Introduction
+介绍
 ============
 
 Python's documentation has long been considered to be good for a free
@@ -58,7 +58,7 @@ Please don't let the material in this document stand between the documentation
 and your desire to help out!
 
 
-Style guide
+风格指南
 ===========
 
 The Python documentation should follow the `Apple Publications Style Guide`_
@@ -69,7 +69,7 @@ Topics which are either not covered in Apple's style guide or treated
 differently in Python documentation will be discussed in this
 document.
 
-Use of whitespace
+使用的空白
 -----------------
 
 All reST files use an indentation of 3 spaces; no tabs are allowed.  The

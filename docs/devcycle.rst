@@ -1,6 +1,6 @@
 .. _devcycle:
 
-Development Cycle
+开发周期
 =================
 
 The responsibilities of a core developer shift based on what kind of branch of

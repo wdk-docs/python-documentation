@@ -1,6 +1,6 @@
 .. _coverage:
 
-Increase Test Coverage
+扩大测试范围
 ======================
 
 Python development follows a practice that all semantic changes and additions

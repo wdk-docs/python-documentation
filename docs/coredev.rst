@@ -1,6 +1,6 @@
 .. _coredev:
 
-How to Become a Core Developer
+如何成为一个核心开发
 ==============================
 
 What it Takes

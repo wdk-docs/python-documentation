@@ -1,6 +1,6 @@
 .. _patch:
 
-Lifecycle of a Patch
+修补程序的生命周期
 ====================
 
 

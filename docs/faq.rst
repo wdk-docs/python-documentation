@@ -2,14 +2,14 @@
 
 .. _faq:
 
-Python Developer FAQ
+Python开发人员常见问题解答
 ~~~~~~~~~~~~~~~~~~~~
 
 .. contents::
    :local:
 
 
-Communications
+通信
 ==============
 
 

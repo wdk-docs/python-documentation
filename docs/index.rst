@@ -1,5 +1,5 @@
 ========================
-Python Developer's Guide
+Python开发人员指南
 ========================
 
 This guide is a comprehensive resource for :ref:`contributing <contributing>`
@@ -8,7 +8,7 @@ to Python_ -- for both new and experienced contributors.  It is
 that maintains Python.  We welcome your contributions to Python!
 
 
-Quick Start
+快速入门
 -----------
 
 Here are the basic steps needed to get :ref:`set up <setup>` and contribute a
@@ -37,7 +37,7 @@ patch:
 5. Submit it to the `issue tracker`_.
 
 
-Quick Links
+快速链接
 -----------
 
 Here are some links that you probably will reference frequently while
@@ -51,7 +51,7 @@ contributing to Python.
 
 .. _contributing:
 
-Contributing
+贡献
 ------------
 
 We encourage everyone to contribute to Python and that's why we have put up this
@@ -89,7 +89,7 @@ documentation has been read so you may find it necessary to backtrack to fill in
 missing concepts and terminology.
 
 
-Proposing changes to Python itself
+建议更改Python本身
 ----------------------------------
 
 Improving Python's code, documentation and tests are ongoing tasks that are
@@ -108,7 +108,7 @@ happen and that process is also described as part of this guide:
 Also refer to :ref:`suggesting-changes` in the FAQ.
 
 
-Other Interpreter Implementations
+其他一些解释器实现
 ---------------------------------
 
 This guide is specifically for contributing to the Python reference interpreter,
@@ -133,7 +133,7 @@ developers to work on them.  Some major example that may be of interest are:
 
 .. _resources:
 
-Key Resources
+关键资源
 -------------
 
 * Coding style guides
@@ -154,7 +154,7 @@ Key Resources
 * :doc:`developers`
 
 
-Additional Resources
+其他资源
 --------------------
 
 * Anyone can clone the sources for this guide.  See
@@ -173,7 +173,7 @@ Additional Resources
 
 .. _contents:
 
-Full Table of Contents
+完整的目录
 ----------------------
 
 .. toctree::

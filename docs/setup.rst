@@ -1,5 +1,5 @@
 ===============
-Getting Started
+入门
 ===============
 
 These instructions cover how to get a working copy of the source code and a
@@ -9,7 +9,7 @@ directory structure of the CPython source code.
 
 .. _setup:
 
-Getting Set Up
+快速设置
 ==============
 
 Version Control Setup

@@ -1,6 +1,6 @@
 .. _communication:
 
-Following Python's Development
+Python的发展
 ==============================
 
 Python's development is communicated through a myriad of ways, mostly through

@@ -1,6 +1,6 @@
 .. _gdb:
 
-gdb Support
+gdb支持
 ===========
 
 If you experience low-level problems such as crashes or deadlocks

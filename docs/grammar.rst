@@ -1,6 +1,6 @@
 .. _grammar:
 
-Changing CPython's Grammar
+更改CPython中的语法
 ==========================
 
 Abstract

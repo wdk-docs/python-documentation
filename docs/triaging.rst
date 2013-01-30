@@ -1,6 +1,6 @@
 .. _triaging:
 
-Triaging an Issue
+会审问题
 =================
 
 When you have the Developer role on the `issue tracker`_ you are able to triage

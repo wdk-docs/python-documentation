@@ -1,6 +1,6 @@
 .. _docquality:
 
-Helping with Documentation
+帮助文档
 ==========================
 
 Python is known for having good documentation. But maintaining all of it and

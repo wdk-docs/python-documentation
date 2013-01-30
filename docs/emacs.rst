@@ -1,7 +1,7 @@
 .. _emacs:
 
 =============
-Emacs support
+Emacs支持
 =============
 
 If you want to edit Python code in Emacs, you should download python-mode.el

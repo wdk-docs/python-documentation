@@ -1,6 +1,6 @@
 .. _committing:
 
-Committing and Pushing Changes
+实施和推进变化
 ==============================
 
 Once a change patch is ready and tested, it can be committed to the repository.

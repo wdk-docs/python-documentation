@@ -1,6 +1,6 @@
 .. _experts:
 
-Experts Index
+专家指数
 =================
 
 This document has tables that list Python Modules, Tools, Platforms and
