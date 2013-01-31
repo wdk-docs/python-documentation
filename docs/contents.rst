@@ -3,7 +3,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 .. toctree::
-
+   :maxdepth: 2
+   
    whatsnew/index.rst
    tutorial/index.rst
    using/index.rst
