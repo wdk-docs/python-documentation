@@ -1,59 +1,59 @@
 {% extends "defindex.html" %}
 {% block tables %}
-  <p><strong>Parts of the documentation:</strong></p>
+  <p><strong>部分文档:</strong></p>
   <table class="contentstable" align="center"><tr>
     <td width="50%">
-      <p class="biglink"><a class="biglink" href="{{ pathto("whatsnew/" + version) }}">What's new in Python {{ version }}?</a><br/>
-         <span class="linkdescr">or <a href="{{ pathto("whatsnew/index") }}">all "What's new" documents</a> since 2.0</span></p>
-      <p class="biglink"><a class="biglink" href="{{ pathto("tutorial/index") }}">Tutorial</a><br/>
+      <p class="biglink"><a class="biglink" href="{{ pathto("whatsnew/" + version) }}">最新 {{ version }}?</a><br/>
+         <span class="linkdescr">or <a href="{{ pathto("whatsnew/index") }}">最新文档</a> since 2.0</span></p>
+      <p class="biglink"><a class="biglink" href="{{ pathto("tutorial/index") }}">手册</a><br/>
          <span class="linkdescr">start here</span></p>
-      <p class="biglink"><a class="biglink" href="{{ pathto("library/index") }}">Library Reference</a><br/>
+      <p class="biglink"><a class="biglink" href="{{ pathto("library/index") }}">库参考</a><br/>
          <span class="linkdescr">keep this under your pillow</span></p>
-      <p class="biglink"><a class="biglink" href="{{ pathto("reference/index") }}">Language Reference</a><br/>
-         <span class="linkdescr">describes syntax and language elements</span></p>
+      <p class="biglink"><a class="biglink" href="{{ pathto("reference/index") }}">语言参考</a><br/>
+         <span class="linkdescr">描述语法和语言元素</span></p>
       <p class="biglink"><a class="biglink" href="{{ pathto("using/index") }}">Python Setup and Usage</a><br/>
-         <span class="linkdescr">how to use Python on different platforms</span></p>
+         <span class="linkdescr">如何在不同平台使用Python</span></p>
       <p class="biglink"><a class="biglink" href="{{ pathto("howto/index") }}">Python HOWTOs</a><br/>
          <span class="linkdescr">in-depth documents on specific topics</span></p>
     </td><td width="50%">
-      <p class="biglink"><a class="biglink" href="{{ pathto("extending/index") }}">Extending and Embedding</a><br/>
-         <span class="linkdescr">tutorial for C/C++ programmers</span></p>
+      <p class="biglink"><a class="biglink" href="{{ pathto("extending/index") }}">扩展和嵌入</a><br/>
+         <span class="linkdescr">C/C++程序员指南</span></p>
       <p class="biglink"><a class="biglink" href="{{ pathto("c-api/index") }}">Python/C API</a><br/>
-         <span class="linkdescr">reference for C/C++ programmers</span></p>
-      <p class="biglink"><a class="biglink" href="{{ pathto("install/index") }}">Installing Python Modules</a><br/>
+         <span class="linkdescr">C/C++程序员参考</span></p>
+      <p class="biglink"><a class="biglink" href="{{ pathto("install/index") }}">安装Python模块</a><br/>
          <span class="linkdescr">information for installers &amp; sys-admins</span></p>
-      <p class="biglink"><a class="biglink" href="{{ pathto("distutils/index") }}">Distributing Python Modules</a><br/>
-         <span class="linkdescr">sharing modules with others</span></p>
+      <p class="biglink"><a class="biglink" href="{{ pathto("distutils/index") }}">发布Python模块</a><br/>
+         <span class="linkdescr">分享模块</span></p>
       <p class="biglink"><a class="biglink" href="{{ pathto("faq/index") }}">FAQs</a><br/>
-         <span class="linkdescr">frequently asked questions (with answers!)</span></p>
+         <span class="linkdescr">常见问答 (带答案!)</span></p>
     </td></tr>
   </table>
 
-  <p><strong>Indices and tables:</strong></p>
+  <p><strong>目录和表格:</strong></p>
   <table class="contentstable" align="center"><tr>
     <td width="50%">
       <p class="biglink"><a class="biglink" href="{{ pathto("py-modindex") }}">Global Module Index</a><br/>
-         <span class="linkdescr">quick access to all modules</span></p>
-      <p class="biglink"><a class="biglink" href="{{ pathto("genindex") }}">General Index</a><br/>
-         <span class="linkdescr">all functions, classes, terms</span></p>
-      <p class="biglink"><a class="biglink" href="{{ pathto("glossary") }}">Glossary</a><br/>
-         <span class="linkdescr">the most important terms explained</span></p>
+         <span class="linkdescr">快速访问所有的模块</span></p>
+      <p class="biglink"><a class="biglink" href="{{ pathto("genindex") }}">一般索引</a><br/>
+         <span class="linkdescr">所用函数,类和术语</span></p>
+      <p class="biglink"><a class="biglink" href="{{ pathto("glossary") }}">词汇表</a><br/>
+         <span class="linkdescr">最重要的术语解释道</span></p>
     </td><td width="50%">
-      <p class="biglink"><a class="biglink" href="{{ pathto("search") }}">Search page</a><br/>
-         <span class="linkdescr">search this documentation</span></p>
-      <p class="biglink"><a class="biglink" href="{{ pathto("contents") }}">Complete Table of Contents</a><br/>
-         <span class="linkdescr">lists all sections and subsections</span></p>
+      <p class="biglink"><a class="biglink" href="{{ pathto("search") }}">搜索页面</a><br/>
+         <span class="linkdescr">搜索本文档</span></p>
+      <p class="biglink"><a class="biglink" href="{{ pathto("contents") }}">完整内容表</a><br/>
+         <span class="linkdescr">列出所有部分或细节</span></p>
     </td></tr>
   </table>
 
-  <p><strong>Meta information:</strong></p>
+  <p><strong>更多信息:</strong></p>
   <table class="contentstable" align="center"><tr>
     <td width="50%">
-      <p class="biglink"><a class="biglink" href="{{ pathto("bugs") }}">Reporting bugs</a></p>
-      <p class="biglink"><a class="biglink" href="{{ pathto("about") }}">About the documentation</a></p>
+      <p class="biglink"><a class="biglink" href="{{ pathto("bugs") }}">报告缺陷</a></p>
+      <p class="biglink"><a class="biglink" href="{{ pathto("about") }}">关于本文档</a></p>
     </td><td width="50%">
-      <p class="biglink"><a class="biglink" href="{{ pathto("license") }}">History and License of Python</a></p>
-      <p class="biglink"><a class="biglink" href="{{ pathto("copyright") }}">Copyright</a></p>
+      <p class="biglink"><a class="biglink" href="{{ pathto("license") }}">历史和版本信息</a></p>
+      <p class="biglink"><a class="biglink" href="{{ pathto("copyright") }}">版权</a></p>
     </td></tr>
   </table>
 {% endblock %}

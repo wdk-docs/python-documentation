@@ -77,10 +77,10 @@
 {% endblock %}
 {% block footer %}
     <div class="footer">
-    &copy; <a href="{{ pathto('copyright') }}">Copyright</a> {{ copyright|e }}.
+    &copy; <a href="{{ pathto('copyright') }}">版权</a> {{ copyright|e }}.
     <br />
     The Python Software Foundation is a non-profit corporation.
-    <a href="http://www.python.org/psf/donations/">Please donate.</a>
+    <a href="http://www.python.org/psf/donations/">请捐献.</a>
     <br />
     Last updated on {{ last_updated|e }}.
     <a href="{{ pathto('bugs') }}">Found a bug</a>?
@@ -92,7 +92,7 @@
 {%- if show_source and has_source and sourcename %}
 <h3>{{ _('This Page') }}</h3>
 <ul class="this-page-menu">
-  <li><a href="{{ pathto('bugs') }}">Report a Bug</a></li>
+  <li><a href="{{ pathto('bugs') }}">报告缺陷</a></li>
   <li><a href="{{ pathto('_sources/' + sourcename, true)|e }}"
          rel="nofollow">Show Source</a></li>
 </ul>

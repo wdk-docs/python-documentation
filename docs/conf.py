@@ -59,7 +59,7 @@ add_function_parentheses = True
 add_module_names = True
 
 # By default, highlight as Python 3.
-highlight_language = 'python'
+highlight_language = 'python3'
 
 
 # Options for HTML output
