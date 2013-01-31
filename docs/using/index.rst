@@ -1,7 +1,7 @@
 .. _using-index:
 
 ##########################
-  Python Setup and Usage
+  Python设置和使用
 ##########################
 
 

@@ -1,5 +1,5 @@
 ***************
- Python HOWTOs
+ Python的HOWTO文档
 ***************
 
 Python HOWTOs are documents that cover a single, specific topic,

@@ -1,7 +1,7 @@
 .. _distutils-index:
 
 ###############################
-  Distributing Python Modules
+  发布Python模块
 ###############################
 
 :Authors: Greg Ward, Anthony Baxter

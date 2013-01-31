@@ -3,7 +3,7 @@
 .. _install-index:
 
 *****************************
-  Installing Python Modules
+  安装Python模块
 *****************************
 
 :Author: Greg Ward
