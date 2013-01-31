@@ -2,7 +2,7 @@
 .. _top-level:
 
 ********************
-Top-level components
+顶层组件
 ********************
 
 .. index:: single: interpreter
@@ -15,7 +15,7 @@ cases.
 
 .. _programs:
 
-Complete Python programs
+完整的Python程序
 ========================
 
 .. index:: single: program
@@ -60,7 +60,7 @@ executes the file as a complete program.
 
 .. _file-input:
 
-File input
+文件输入
 ==========
 
 All input read from non-interactive files has the same form:
@@ -79,7 +79,7 @@ This syntax is used in the following situations:
 
 .. _interactive:
 
-Interactive input
+交互输入
 =================
 
 Input in interactive mode is parsed using the following grammar:
@@ -93,7 +93,7 @@ interactive mode; this is needed to help the parser detect the end of the input.
 
 .. _expression-input:
 
-Expression input
+表达式输入
 ================
 
 .. index:: single: input

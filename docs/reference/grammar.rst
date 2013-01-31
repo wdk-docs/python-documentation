@@ -1,4 +1,4 @@
-Full Grammar specification
+完整的语法规范
 ==========================
 
 This is the full Python grammar, as it is read by the parser generator and used

@@ -2,7 +2,7 @@
 .. _introduction:
 
 ************
-Introduction
+简介
 ************
 
 This reference manual describes the Python programming language. It is not

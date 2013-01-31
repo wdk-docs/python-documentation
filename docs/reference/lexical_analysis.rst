@@ -2,7 +2,7 @@
 .. _lexical:
 
 ****************
-Lexical analysis
+词法分析
 ****************
 
 .. index:: lexical analysis, parser, token

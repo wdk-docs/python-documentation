@@ -1,7 +1,7 @@
 .. _reference-index:
 
 #################################
-  The Python Language Reference
+  Python语言参考
 #################################
 
 This reference manual describes the syntax and "core semantics" of the
