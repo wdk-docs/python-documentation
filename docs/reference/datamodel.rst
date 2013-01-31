@@ -8,7 +8,7 @@
 
 .. _objects:
 
-Objects, values and types
+对象, 值 and 类型
 =========================
 
 .. index::
@@ -116,7 +116,7 @@ created empty lists. (Note that ``c = d = []`` assigns the same object to both
 
 .. _types:
 
-The standard type hierarchy
+标准类型层次
 ===========================
 
 .. index::
@@ -1716,7 +1716,7 @@ the new type and it saves the ordered dictionary keys in an attribute
 called ``members``.
 
 
-Customizing instance and subclass checks
+自定义实例和子类的检查
 ----------------------------------------
 
 The following methods are used to override the default behavior of the
@@ -1758,7 +1758,7 @@ case the instance is itself a class.
 
 .. _callable-types:
 
-Emulating callable objects
+模拟可调用的对象
 --------------------------
 
 
@@ -1772,7 +1772,7 @@ Emulating callable objects
 
 .. _sequence-types:
 
-Emulating container types
+模拟容器类型
 -------------------------
 
 The following methods can be defined to implement container objects.  Containers
@@ -1917,7 +1917,7 @@ also does not require the object be a sequence.
 
 .. _numeric-types:
 
-Emulating numeric types
+模拟数字类型
 -----------------------
 
 The following methods can be defined to emulate numeric objects. Methods
@@ -2060,7 +2060,7 @@ left undefined.
 
 .. _context-managers:
 
-With Statement Context Managers
+通过声明上下文管理
 -------------------------------
 
 A :dfn:`context manager` is an object that defines the runtime context to be
@@ -2110,7 +2110,7 @@ For more information on context managers, see :ref:`typecontextmanager`.
 
 .. _special-lookup:
 
-Special method lookup
+特殊的方法查找
 ---------------------
 
 For custom classes, implicit invocations of special methods are only guaranteed

@@ -1,7 +1,7 @@
 .. _tutorial-index:
 
 ######################
-  The Python Tutorial
+  Python指南
 ######################
 
 Python is an easy to learn, powerful programming language. It has efficient

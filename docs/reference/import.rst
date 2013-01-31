@@ -60,7 +60,7 @@ additional detail.
 
 
 
-Packages
+包
 ========
 
 .. index::
@@ -91,7 +91,7 @@ which in turn has a subpackage called :mod:`email.mime` and a module within
 that subpackage called :mod:`email.mime.text`.
 
 
-Regular packages
+常规包
 ----------------
 
 .. index::
@@ -125,7 +125,7 @@ Importing ``parent.one`` will implicitly execute ``parent/__init__.py`` and
 ``parent/three/__init__.py`` respectively.
 
 
-Namespace packages
+名称空间包
 ------------------
 
 .. index::
@@ -156,7 +156,7 @@ its subpackages is imported.
 See also :pep:`420` for the namespace package specification.
 
 
-Searching
+搜索
 =========
 
 To begin the search, Python needs the :term:`fully qualified <qualified name>`
@@ -171,7 +171,7 @@ first tries to import ``foo``, then ``foo.bar``, and finally ``foo.bar.baz``.
 If any of the intermediate imports fail, an :exc:`ImportError` is raised.
 
 
-The module cache
+模块缓存
 ----------------
 
 .. index::
@@ -204,7 +204,7 @@ named module, the two module objects will *not* be the same. By contrast,
 reinitialise the module contents by rerunning the module's code.
 
 
-Finders and loaders
+发现者和加载器
 -------------------
 
 .. index::
@@ -316,7 +316,7 @@ modules, and one that knows how to import modules from an :term:`import path`
 (i.e. the :term:`path based finder`).
 
 
-Loaders
+加载器
 =======
 
 If and when a module loader is found its
@@ -462,7 +462,7 @@ manipulation code; the namespace loader automatically sets ``__path__``
 correctly for the namespace package.
 
 
-The Path Based Finder
+基于搜索的路径
 =====================
 
 .. index::

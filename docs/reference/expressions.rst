@@ -22,7 +22,7 @@ as for ``othername``.
 
 .. _conversions:
 
-Arithmetic conversions
+数值型间的转换
 ======================
 
 .. index:: pair: arithmetic; conversion
@@ -44,7 +44,7 @@ to the '%' operator).  Extensions must define their own conversion behavior.
 
 .. _atoms:
 
-Atoms
+原子
 =====
 
 .. index:: atom
@@ -61,7 +61,7 @@ also categorized syntactically as atoms.  The syntax for atoms is:
 
 .. _atom-identifiers:
 
-Identifiers (Names)
+标识符 (Names)
 -------------------
 
 .. index:: name, identifier
@@ -96,7 +96,7 @@ no transformation is done.
 
 .. _atom-literals:
 
-Literals
+字面值
 --------
 
 .. index:: single: literal
@@ -125,7 +125,7 @@ value.
 
 .. _parenthesized:
 
-Parenthesized forms
+括号表达式
 -------------------
 
 .. index:: single: parenthesized form
@@ -157,7 +157,7 @@ ambiguities and allow common typos to pass uncaught.
 
 .. _comprehensions:
 
-Displays for lists, sets and dictionaries
+显示列表、集合和字典
 -----------------------------------------
 
 For constructing a list, a set or a dictionary Python provides special syntax
@@ -189,7 +189,7 @@ to in the target list don't "leak" in the enclosing scope.
 
 .. _lists:
 
-List displays
+列表的表示
 -------------
 
 .. index::
@@ -213,7 +213,7 @@ the list is constructed from the elements resulting from the comprehension.
 
 .. _set:
 
-Set displays
+集合的表示
 ------------
 
 .. index:: pair: set; display
@@ -237,7 +237,7 @@ dictionary.
 
 .. _dict:
 
-Dictionary displays
+字典的表示
 -------------------
 
 .. index:: pair: dictionary; display
@@ -278,7 +278,7 @@ prevails.
 
 .. _genexpr:
 
-Generator expressions
+生成器表达式
 ---------------------
 
 .. index:: pair: generator; expression
@@ -308,7 +308,7 @@ The parentheses can be omitted on calls with only one argument.  See section
 
 .. _yieldexpr:
 
-Yield expressions
+产量的表达
 -----------------
 
 .. index::
@@ -379,7 +379,7 @@ sole expression on the right hand side of an assignment statement.
 .. index:: object: generator
 
 
-Generator-iterator methods
+发生器迭代器方法
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This subsection describes the methods of a generator iterator.  They can
@@ -442,7 +442,7 @@ is already executing raises a :exc:`ValueError` exception.
 
 .. index:: single: yield; examples
 
-Examples
+例子
 ^^^^^^^^
 
 Here is a simple example that demonstrates the behavior of generators and
@@ -492,7 +492,7 @@ Python."
 
 .. _primaries:
 
-Primaries
+初选
 =========
 
 .. index:: single: primary
@@ -506,7 +506,7 @@ syntax is:
 
 .. _attribute-references:
 
-Attribute references
+属性引用
 --------------------
 
 .. index:: pair: attribute; reference
@@ -532,7 +532,7 @@ attribute reference may yield different objects.
 
 .. _subscriptions:
 
-Subscriptions
+订阅
 -------------
 
 .. index:: single: subscription
@@ -586,7 +586,7 @@ string of exactly one character.
 
 .. _slicings:
 
-Slicings
+切片
 --------
 
 .. index::
@@ -644,7 +644,7 @@ expressions.
 
 .. _calls:
 
-Calls
+呼叫
 -----
 
 A call calls a callable object (e.g., a :term:`function`) with a possibly empty
@@ -817,7 +817,7 @@ a class instance:
 
 .. _power:
 
-The power operator
+电运营商
 ==================
 
 The power operator binds more tightly than unary operators on its left; it binds
@@ -847,7 +847,7 @@ number. (In earlier versions it raised a :exc:`ValueError`.)
 
 .. _unary:
 
-Unary arithmetic and bitwise operations
+一元运算和位操作
 =======================================
 
 .. index::
@@ -884,7 +884,7 @@ In all three cases, if the argument does not have the proper type, a
 
 .. _binary:
 
-Binary arithmetic operations
+二进制算术运算
 ============================
 
 .. index:: triple: binary; arithmetic; operation
@@ -958,7 +958,7 @@ numeric arguments are first converted to a common type.
 
 .. _shifting:
 
-Shifting operations
+移位运算符
 ===================
 
 .. index:: pair: shifting; operation
@@ -984,7 +984,7 @@ by *n* bits is defined as multiplication with ``pow(2,n)``.
 
 .. _bitwise:
 
-Binary bitwise operations
+二进制位操作
 =========================
 
 .. index:: triple: binary; bitwise; operation
@@ -1022,7 +1022,7 @@ must be integers.
 .. _in:
 .. _not in:
 
-Comparisons
+比较
 ===========
 
 .. index:: single: comparison
@@ -1167,7 +1167,7 @@ yields the inverse truth value. [#]_
 .. _or:
 .. _not:
 
-Boolean operations
+布尔运算
 ==================
 
 .. index::
@@ -1210,7 +1210,7 @@ not bother to return a value of the same type as its argument, so e.g., ``not
 'foo'`` yields ``False``, not ``''``.)
 
 
-Conditional expressions
+条件运算
 =======================
 
 .. index::
@@ -1261,7 +1261,7 @@ functions created with lambda forms cannot contain statements or annotations.
 
 .. _exprlists:
 
-Expression lists
+表达式表
 ================
 
 .. index:: pair: expression; list
@@ -1286,7 +1286,7 @@ expression. (To create an empty tuple, use an empty pair of parentheses:
 
 .. _evalorder:
 
-Evaluation order
+评价顺序
 ================
 
 .. index:: pair: evaluation; order
@@ -1307,7 +1307,7 @@ their suffixes::
 
 .. _operator-summary:
 
-Operator precedence
+算符优先
 ===================
 
 .. index:: pair: operator; precedence

@@ -10,7 +10,7 @@
 
 .. _naming:
 
-Naming and binding
+命名和绑定
 ==================
 
 .. index::
@@ -151,7 +151,7 @@ defined at the class scope are not visible in methods.
 
 .. _dynamic-features:
 
-Interaction with dynamic features
+和动态特性交互
 ---------------------------------
 
 There are several cases where Python statements are illegal when used in
@@ -176,7 +176,7 @@ namespace.  If only one namespace is specified, it is used for both.
 
 .. _exceptions:
 
-Exceptions
+异常
 ==========
 
 .. index:: single: exception

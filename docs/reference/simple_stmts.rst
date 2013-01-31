@@ -30,7 +30,7 @@ simple statements is:
 
 .. _exprstmts:
 
-Expression statements
+表达式语句
 =====================
 
 .. index::
@@ -66,7 +66,7 @@ procedure calls do not cause any output.)
 
 .. _assignment:
 
-Assignment statements
+赋值语句
 =====================
 
 .. index::
@@ -254,7 +254,7 @@ are not safe!  For instance, the following program prints ``[0, 2]``::
 
 .. _augassign:
 
-Augmented assignment statements
+赋值语句
 -------------------------------
 
 .. index::

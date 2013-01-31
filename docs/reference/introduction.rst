@@ -37,7 +37,7 @@ definition.
 
 .. _implementations:
 
-Alternate Implementations
+其他实现
 =========================
 
 Though there is one Python implementation which is by far the most popular,
@@ -85,7 +85,7 @@ implementation you're using.
 
 .. _notation:
 
-Notation
+符号
 ========
 
 .. index:: BNF, grammar, syntax, notation

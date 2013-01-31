@@ -19,7 +19,7 @@ raised.
 
 .. _line-structure:
 
-Line structure
+行结构
 ==============
 
 .. index:: line structure
@@ -29,7 +29,7 @@ A Python program is divided into a number of *logical lines*.
 
 .. _logical-lines:
 
-Logical lines
+逻辑行
 -------------
 
 .. index:: logical line, physical line, line joining, NEWLINE token
@@ -43,7 +43,7 @@ implicit *line joining* rules.
 
 .. _physical-lines:
 
-Physical lines
+物理行
 --------------
 
 A physical line is a sequence of characters terminated by an end-of-line
@@ -60,7 +60,7 @@ representing ASCII LF, is the line terminator).
 
 .. _comments:
 
-Comments
+注释
 --------
 
 .. index:: comment, hash character
@@ -73,7 +73,7 @@ are ignored by the syntax; they are not tokens.
 
 .. _encodings:
 
-Encoding declarations
+编码声明
 ---------------------
 
 .. index:: source character set, encodings
@@ -105,7 +105,7 @@ and identifiers. The encoding declaration must appear on a line of its own.
 
 .. _explicit-joining:
 
-Explicit line joining
+显式行连接
 ---------------------
 
 .. index:: physical line, line joining, line continuation, backslash character
@@ -130,7 +130,7 @@ outside a string literal.
 
 .. _implicit-joining:
 
-Implicit line joining
+隐式行连接
 ---------------------
 
 Expressions in parentheses, square brackets or curly braces can be split over
@@ -150,7 +150,7 @@ case they cannot carry comments.
 
 .. _blank-lines:
 
-Blank lines
+空行
 -----------
 
 .. index:: single: blank line
@@ -165,7 +165,7 @@ whitespace or a comment) terminates a multi-line statement.
 
 .. _indentation:
 
-Indentation
+缩进
 -----------
 
 .. index:: indentation, leading whitespace, space, tab, grouping, statement grouping
@@ -244,7 +244,7 @@ not match a level popped off the stack.)
 
 .. _whitespace:
 
-Whitespace between tokens
+令牌间的空白
 -------------------------
 
 Except at the beginning of a logical line or in string literals, the whitespace
@@ -256,7 +256,7 @@ a b is two tokens).
 
 .. _other-tokens:
 
-Other tokens
+其他令牌
 ============
 
 Besides NEWLINE, INDENT and DEDENT, the following categories of tokens exist:
@@ -268,7 +268,7 @@ possible string that forms a legal token, when read from left to right.
 
 .. _identifiers:
 
-Identifiers and keywords
+标识符和关键字
 ========================
 
 .. index:: identifier, name
@@ -323,7 +323,7 @@ http://www.dcl.hpi.uni-potsdam.de/home/loewis/table-3131.html.
 
 .. _keywords:
 
-Keywords
+关键字
 --------
 
 .. index::
@@ -346,7 +346,7 @@ exactly as written here:
 
 .. _id-classes:
 
-Reserved classes of identifiers
+保留类标识符
 -------------------------------
 
 Certain classes of identifiers (besides keywords) have special meanings.  These
@@ -382,17 +382,17 @@ characters:
 
 .. _literals:
 
-Literals
+字面值
 ========
 
 .. index:: literal, constant
 
-Literals are notations for constant values of some built-in types.
+字面值是某些内置类型常量的表示法.
 
 
 .. _strings:
 
-String and Bytes literals
+字符串和字节字面值
 -------------------------
 
 .. index:: string literal, bytes literal, ASCII
@@ -563,7 +563,7 @@ characters as part of the string, *not* as a line continuation.
 
 .. _string-catenation:
 
-String literal concatenation
+串字面值的连接
 ----------------------------
 
 Multiple adjacent string or bytes literals (delimited by whitespace), possibly
@@ -585,7 +585,7 @@ styles for each component (even mixing raw strings and triple quoted strings).
 
 .. _numbers:
 
-Numeric literals
+数值型字面值
 ----------------
 
 .. index:: number, numeric literal, integer literal
@@ -603,7 +603,7 @@ actually an expression composed of the unary operator '``-``' and the literal
 
 .. _integers:
 
-Integer literals
+整数字面值
 ----------------
 
 Integer literals are described by the following lexical definitions:
@@ -636,7 +636,7 @@ Some examples of integer literals::
 
 .. _floating:
 
-Floating point literals
+浮点型字面值
 -----------------------
 
 Floating point literals are described by the following lexical definitions:
@@ -663,7 +663,7 @@ actually an expression composed of the unary operator ``-`` and the literal
 
 .. _imaginary:
 
-Imaginary literals
+虚数的字面值
 ------------------
 
 Imaginary literals are described by the following lexical definitions:
@@ -682,7 +682,7 @@ imaginary literals::
 
 .. _operators:
 
-Operators
+运算符
 =========
 
 .. index:: single: operators
@@ -696,7 +696,7 @@ The following tokens are operators::
 
 .. _delimiters:
 
-Delimiters
+分隔符
 ==========
 
 .. index:: single: delimiters
