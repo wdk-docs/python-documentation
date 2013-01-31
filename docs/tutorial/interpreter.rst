@@ -1,7 +1,7 @@
 .. _tut-using:
 
 ****************************
-Using the Python Interpreter
+使用Python解释器
 ****************************
 
 

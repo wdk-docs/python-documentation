@@ -1,7 +1,7 @@
 .. _tut-fp-issues:
 
 **************************************************
-Floating Point Arithmetic:  Issues and Limitations
+浮点运算:  问题和局限性
 **************************************************
 
 .. sectionauthor:: Tim Peters <tim_one@users.sourceforge.net>

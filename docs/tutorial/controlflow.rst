@@ -1,7 +1,7 @@
 .. _tut-morecontrol:
 
 ***********************
-More Control Flow Tools
+深入流程控制
 ***********************
 
 Besides the :keyword:`while` statement just introduced, Python knows the usual

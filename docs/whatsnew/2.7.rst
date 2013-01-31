@@ -1,5 +1,5 @@
 ****************************
-  What's New in Python 2.7
+2.7更新
 ****************************
 
 :Author: A.M. Kuchling (amk at amk.ca)

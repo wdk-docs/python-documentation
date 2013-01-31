@@ -1,7 +1,7 @@
 .. _tut-whatnow:
 
 *********
-What Now?
+现在做什么?
 *********
 
 Reading this tutorial has probably reinforced your interest in using Python ---

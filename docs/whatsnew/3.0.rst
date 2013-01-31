@@ -1,5 +1,5 @@
 ****************************
-  What's New In Python 3.0
+3.0更新
 ****************************
 
 .. XXX Add trademark info for Apple, Microsoft.

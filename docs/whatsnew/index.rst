@@ -1,7 +1,7 @@
 .. _whatsnew-index:
 
 ######################
- 在Python中有什么新功能
+Python更新
 ######################
 
 The "What's New in Python" series of essays takes tours through the most

@@ -1,7 +1,7 @@
 ﻿.. _tut-informal:
 
 **********************************
-An Informal Introduction to Python
+一个非正式的介绍Python
 **********************************
 
 In the following examples, input and output are distinguished by the presence or

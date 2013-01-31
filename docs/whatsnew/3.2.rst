@@ -1,11 +1,11 @@
 ****************************
-  What's New In Python 3.2
+3.2更新
 ****************************
 
 :Author: Raymond Hettinger
 
 .. $Id$
-   Rules for maintenance:
+Rules for maintenance:
 
    * Anyone can add text to this document.  Do not spend very much time
    on the wording of your changes, because your text will probably

@@ -1,7 +1,7 @@
 .. _tut-errors:
 
 *********************
-Errors and Exceptions
+错误和异常
 *********************
 
 Until now error messages haven't been more than mentioned, but if you have tried

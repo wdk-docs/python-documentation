@@ -1,7 +1,7 @@
 .. _tut-classes:
 
 *******
-Classes
+类
 *******
 
 Compared with other programming languages, Python's class mechanism adds classes

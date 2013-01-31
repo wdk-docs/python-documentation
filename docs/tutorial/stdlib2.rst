@@ -1,7 +1,7 @@
 .. _tut-brieftourtwo:
 
 *********************************************
-Brief Tour of the Standard Library -- Part II
+标准库概览 -- Part II
 *********************************************
 
 This second tour covers more advanced modules that support professional

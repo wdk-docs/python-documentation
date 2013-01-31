@@ -1,7 +1,7 @@
 .. _tut-interacting:
 
 **************************************************
-Interactive Input Editing and History Substitution
+交互式输入编辑和历史替换
 **************************************************
 
 Some versions of the Python interpreter support editing of the current input
