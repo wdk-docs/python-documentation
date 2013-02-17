@@ -1,4 +1,4 @@
-:mod:`macpath` --- Mac OS 9 path manipulation functions
+:mod:`macpath` --- Mac OS 9的路径操作函数
 =======================================================
 
 .. module:: macpath

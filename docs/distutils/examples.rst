@@ -1,7 +1,7 @@
 .. _examples:
 
 ********
-Examples
+示例
 ********
 
 This chapter provides a number of basic examples to help get started with

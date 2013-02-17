@@ -20,7 +20,7 @@ other DOS and Windows flavors  is yet another beast.
 
 .. _tut-lineediting:
 
-Line Editing
+行编辑
 ============
 
 If supported, input line editing is active whenever the interpreter prints a
@@ -37,7 +37,7 @@ cumulative effect.
 
 .. _tut-history:
 
-History Substitution
+历史记录
 ====================
 
 History substitution works as follows.  All non-empty input lines issued are
@@ -52,7 +52,7 @@ a forward search.
 
 .. _tut-keybindings:
 
-Key Bindings
+定义按钮
 ============
 
 The key bindings and some other parameters of the Readline library can be
@@ -145,7 +145,7 @@ interpreter. ::
 
 .. _tut-commentary:
 
-Alternatives to the Interactive Interpreter
+其它交互式解释器
 ===========================================
 
 This facility is an enormous step forward compared to earlier versions of the

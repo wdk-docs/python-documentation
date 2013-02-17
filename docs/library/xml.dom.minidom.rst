@@ -1,4 +1,4 @@
-:mod:`xml.dom.minidom` --- Minimal DOM implementation
+:mod:`xml.dom.minidom` --- 最小的DOM实现
 =====================================================
 
 .. module:: xml.dom.minidom

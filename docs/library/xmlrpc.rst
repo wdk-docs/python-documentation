@@ -1,4 +1,4 @@
-:mod:`xmlrpc` --- XMLRPC server and client modules
+:mod:`xmlrpc` --- XMLRPC服务端和客户端模块
 ==================================================
 
 XML-RPC is a Remote Procedure Call method that uses XML passed via HTTP as a

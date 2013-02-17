@@ -1,4 +1,4 @@
-:mod:`email.utils`: Miscellaneous utilities
+:mod:`email.utils`: 各式各样的实用程序
 -------------------------------------------
 
 .. module:: email.utils

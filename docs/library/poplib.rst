@@ -1,4 +1,4 @@
-:mod:`poplib` --- POP3 protocol client
+:mod:`poplib` --- POP3协议的客户端
 ======================================
 
 .. module:: poplib

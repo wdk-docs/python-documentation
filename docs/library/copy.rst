@@ -1,4 +1,4 @@
-:mod:`copy` --- Shallow and deep copy operations
+:mod:`copy` --- 浅拷贝和深拷贝操作
 ================================================
 
 .. module:: copy

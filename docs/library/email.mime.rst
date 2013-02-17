@@ -1,4 +1,4 @@
-:mod:`email.mime`: Creating email and MIME objects from scratch
+:mod:`email.mime`: 创建电子邮件和MIME对象从头开始
 ---------------------------------------------------------------
 
 .. module:: email.mime

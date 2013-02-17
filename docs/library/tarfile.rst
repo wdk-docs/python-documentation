@@ -1,4 +1,4 @@
-:mod:`tarfile` --- Read and write tar archive files
+:mod:`tarfile` --- 读取和写入tar归档文件
 ===================================================
 
 .. module:: tarfile

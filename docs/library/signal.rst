@@ -1,4 +1,4 @@
-:mod:`signal` --- Set handlers for asynchronous events
+:mod:`signal` --- 设置异步事件的处理程序
 ======================================================
 
 .. module:: signal

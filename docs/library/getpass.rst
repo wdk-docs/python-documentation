@@ -1,4 +1,4 @@
-:mod:`getpass` --- Portable password input
+:mod:`getpass` --- 便携式输入密码
 ==========================================
 
 .. module:: getpass

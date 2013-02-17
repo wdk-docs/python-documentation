@@ -1,4 +1,4 @@
-:mod:`dummy_threading` --- Drop-in replacement for the :mod:`threading` module
+:mod:`dummy_threading` --- :mod:`threading` 模块的下拉替换
 ==============================================================================
 
 .. module:: dummy_threading

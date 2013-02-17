@@ -1,4 +1,4 @@
-:mod:`spwd` --- The shadow password database
+:mod:`spwd` --- 影子口令数据库
 ============================================
 
 .. module:: spwd

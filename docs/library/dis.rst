@@ -1,4 +1,4 @@
-:mod:`dis` --- Disassembler for Python bytecode
+:mod:`dis` --- Python的字节码反汇编
 ===============================================
 
 .. module:: dis

@@ -10,7 +10,7 @@ programming needs.  These modules rarely occur in small scripts.
 
 .. _tut-output-formatting:
 
-Output Formatting
+输出格式
 =================
 
 The :mod:`reprlib` module provides a version of :func:`repr` customized for
@@ -68,7 +68,7 @@ formatting numbers with group separators::
 
 .. _tut-templating:
 
-Templating
+模板法
 ==========
 
 The :mod:`string` module includes a versatile :class:`Template` class with a
@@ -129,7 +129,7 @@ templates for XML files, plain text reports, and HTML web reports.
 
 .. _tut-binary-formats:
 
-Working with Binary Data Record Layouts
+使用二进制数据记录布局
 =======================================
 
 The :mod:`struct` module provides :func:`pack` and :func:`unpack` functions for
@@ -161,7 +161,7 @@ standard size and in little-endian byte order::
 
 .. _tut-multi-threading:
 
-Multi-threading
+多线程方法
 ===============
 
 Threading is a technique for decoupling tasks which are not sequentially
@@ -207,7 +207,7 @@ coordination are easier to design, more readable, and more reliable.
 
 .. _tut-logging:
 
-Logging
+记录
 =======
 
 The :mod:`logging` module offers a full featured and flexible logging system.
@@ -241,7 +241,7 @@ application.
 
 .. _tut-weak-references:
 
-Weak References
+弱引用
 ===============
 
 Python does automatic memory management (reference counting for most objects and
@@ -282,7 +282,7 @@ applications include caching objects that are expensive to create::
 
 .. _tut-list-tools:
 
-Tools for Working with Lists
+链表工具
 ============================
 
 Many data structure needs can be met with the built-in list type. However,
@@ -348,7 +348,7 @@ not want to run a full list sort::
 
 .. _tut-decimal-fp:
 
-Decimal Floating Point Arithmetic
+十进制浮点数算法
 =================================
 
 The :mod:`decimal` module offers a :class:`Decimal` datatype for decimal

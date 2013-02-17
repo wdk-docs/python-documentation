@@ -1,5 +1,5 @@
 
-:mod:`__main__` --- Top-level script environment
+:mod:`__main__` --- 顶层的脚本环境
 ================================================
 
 .. module:: __main__

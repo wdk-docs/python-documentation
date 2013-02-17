@@ -2,7 +2,7 @@
 
 .. _fileobjects:
 
-File Objects
+File 对象
 ------------
 
 .. index:: object: file

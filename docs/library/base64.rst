@@ -1,4 +1,4 @@
-:mod:`base64` --- RFC 3548: Base16, Base32, Base64 Data Encodings
+:mod:`base64` --- RFC 3548：Base16，Base32，Base64编码的数据编码
 =================================================================
 
 .. module:: base64

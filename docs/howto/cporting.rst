@@ -3,7 +3,7 @@
 .. _cporting-howto:
 
 *************************************
-Porting Extension Modules to Python 3
+扩展模块移植到Python 3
 *************************************
 
 :author: Benjamin Peterson

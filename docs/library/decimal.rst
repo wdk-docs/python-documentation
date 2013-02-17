@@ -1,4 +1,4 @@
-:mod:`decimal` --- Decimal fixed point and floating point arithmetic
+:mod:`decimal` --- 十进制定点和浮点运算
 ====================================================================
 
 .. module:: decimal

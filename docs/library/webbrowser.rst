@@ -1,4 +1,4 @@
-:mod:`webbrowser` --- Convenient Web-browser controller
+:mod:`webbrowser` --- 方便的网络浏览器控制器
 =======================================================
 
 .. module:: webbrowser

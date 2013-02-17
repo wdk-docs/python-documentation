@@ -2,7 +2,7 @@
 .. _netdata:
 
 **********************
-Internet Data Handling
+互联网数据处理
 **********************
 
 This chapter describes modules which support handling data formats commonly used

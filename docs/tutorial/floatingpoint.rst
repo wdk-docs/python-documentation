@@ -201,7 +201,7 @@ final total:
 
 .. _tut-fp-error:
 
-Representation Error
+代表误差
 ====================
 
 This section explains the "0.1" example in detail, and shows how you can perform

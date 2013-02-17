@@ -1,7 +1,7 @@
 .. _internet:
 
 ******************************
-Internet Protocols and Support
+网络协议和支持
 ******************************
 
 .. index::

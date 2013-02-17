@@ -1,4 +1,4 @@
-:mod:`msilib` --- Read and write Microsoft Installer files
+:mod:`msilib` --- 读取和写入Microsoft Installer文件
 ==========================================================
 
 .. module:: msilib

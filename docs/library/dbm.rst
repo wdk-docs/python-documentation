@@ -1,4 +1,4 @@
-:mod:`dbm` --- Interfaces to Unix "databases"
+:mod:`dbm` --- 接口Unix的 "数据库"
 =============================================
 
 .. module:: dbm

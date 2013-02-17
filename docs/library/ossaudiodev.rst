@@ -1,4 +1,4 @@
-:mod:`ossaudiodev` --- Access to OSS-compatible audio devices
+:mod:`ossaudiodev` --- 访问OSS兼容的音频设备
 =============================================================
 
 .. module:: ossaudiodev

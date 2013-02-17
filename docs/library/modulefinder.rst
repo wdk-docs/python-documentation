@@ -1,4 +1,4 @@
-:mod:`modulefinder` --- Find modules used by a script
+:mod:`modulefinder` --- 脚本使用的模块
 =====================================================
 
 .. sectionauthor:: A.M. Kuchling <amk@amk.ca>

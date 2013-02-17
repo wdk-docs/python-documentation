@@ -2,7 +2,7 @@
 
 .. _instancemethod-objects:
 
-Instance Method Objects
+实例方法对象
 -----------------------
 
 .. index:: object: instancemethod

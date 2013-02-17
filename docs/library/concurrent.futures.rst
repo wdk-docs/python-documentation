@@ -1,4 +1,4 @@
-:mod:`concurrent.futures` --- Launching parallel tasks
+:mod:`concurrent.futures` --- 启动并行任务
 ======================================================
 
 .. module:: concurrent.futures

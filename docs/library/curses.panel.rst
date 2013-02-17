@@ -1,4 +1,4 @@
-:mod:`curses.panel` --- A panel stack extension for curses
+:mod:`curses.panel` --- curses面板集扩展
 ==========================================================
 
 .. module:: curses.panel

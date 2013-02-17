@@ -1,7 +1,7 @@
 .. _library-intro:
 
 ************
-Introduction
+介绍
 ************
 
 The "Python library" contains several different kinds of components.

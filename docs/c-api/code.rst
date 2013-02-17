@@ -2,7 +2,7 @@
 
 .. _codeobjects:
 
-Code Objects
+代码对象
 ------------
 
 .. sectionauthor:: Jeffrey Yasskin <jyasskin@gmail.com>

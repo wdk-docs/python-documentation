@@ -1,5 +1,5 @@
 *****************
-Argparse Tutorial
+Argparse 教程
 *****************
 
 :author: Tshepang Lekhonkhobe

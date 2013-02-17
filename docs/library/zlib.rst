@@ -1,4 +1,4 @@
-:mod:`zlib` --- Compression compatible with :program:`gzip`
+:mod:`zlib` --- 使用 :program:`gzip`兼容压缩
 ===========================================================
 
 .. module:: zlib

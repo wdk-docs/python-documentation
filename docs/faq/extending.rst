@@ -1,5 +1,5 @@
 =======================
-Extending/Embedding FAQ
+扩展/嵌入 FAQ
 =======================
 
 .. contents::

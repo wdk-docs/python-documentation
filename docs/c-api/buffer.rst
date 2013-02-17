@@ -7,7 +7,7 @@
 
 .. _bufferobjects:
 
-Buffer Protocol
+缓冲协议
 ---------------
 
 .. sectionauthor:: Greg Stein <gstein@lyra.org>

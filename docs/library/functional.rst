@@ -1,5 +1,5 @@
 ******************************
-Functional Programming Modules
+函数式编程模块
 ******************************
 
 The modules described in this chapter provide functions and classes that support

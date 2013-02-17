@@ -1,7 +1,7 @@
 .. _mswin-specific-services:
 
 ****************************
-MS Windows Specific Services
+MS Windows的特定服务
 ****************************
 
 This chapter describes modules that are only available on MS Windows platforms.

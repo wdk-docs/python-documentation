@@ -1,5 +1,5 @@
 *************************
-  Python Advocacy HOWTO
+拥护Python HOWTO
 *************************
 
 :Author: A.M. Kuchling
@@ -14,7 +14,7 @@
    cases where you *shouldn't* try to use Python.
 
 
-Reasons to Use Python
+使用Python的理由
 =====================
 
 There are several reasons to incorporate a scripting language into your

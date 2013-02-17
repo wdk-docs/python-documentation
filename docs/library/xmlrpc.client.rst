@@ -1,4 +1,4 @@
-:mod:`xmlrpc.client` --- XML-RPC client access
+:mod:`xmlrpc.client` --- XML-RPC客户端访问
 ==============================================
 
 .. module:: xmlrpc.client

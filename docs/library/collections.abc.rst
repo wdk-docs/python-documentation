@@ -1,4 +1,4 @@
-:mod:`collections.abc` --- Abstract Base Classes for Containers
+:mod:`collections.abc` --- 抽象基类为集装箱
 ===============================================================
 
 .. module:: collections.abc

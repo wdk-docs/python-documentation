@@ -1,6 +1,6 @@
 .. _codec-registry:
 
-Codec registry and support functions
+编解码器的注册表和支持功能
 ====================================
 
 .. c:function:: int PyCodec_Register(PyObject *search_function)

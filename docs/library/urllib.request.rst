@@ -1,4 +1,4 @@
-:mod:`urllib.request` --- Extensible library for opening URLs
+:mod:`urllib.request` --- 开放URLs扩展库
 =============================================================
 
 .. module:: urllib.request

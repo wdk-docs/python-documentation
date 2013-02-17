@@ -1,4 +1,4 @@
-:mod:`sched` --- Event scheduler
+:mod:`sched` --- 事件调度器
 ================================
 
 .. module:: sched

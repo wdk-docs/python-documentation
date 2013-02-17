@@ -2,7 +2,7 @@
 
 .. _number:
 
-Number Protocol
+数字协议
 ===============
 
 

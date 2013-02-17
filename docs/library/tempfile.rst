@@ -1,4 +1,4 @@
-:mod:`tempfile` --- Generate temporary files and directories
+:mod:`tempfile` --- 生成临时文件和目录
 ============================================================
 
 .. sectionauthor:: Zack Weinberg <zack@codesourcery.com>

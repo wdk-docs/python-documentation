@@ -1,7 +1,7 @@
 .. _allos:
 
 *********************************
-Generic Operating System Services
+通用的操作系统服务
 *********************************
 
 The modules described in this chapter provide interfaces to operating system

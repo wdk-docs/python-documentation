@@ -1,4 +1,4 @@
-:mod:`builtins` --- Built-in objects
+:mod:`builtins` --- 内置对象
 ====================================
 
 .. module:: builtins

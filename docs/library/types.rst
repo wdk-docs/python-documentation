@@ -1,4 +1,4 @@
-:mod:`types` --- Dynamic type creation and names for built-in types
+:mod:`types` --- 创建动态类型和内置类型的名称
 ===================================================================
 
 .. module:: types

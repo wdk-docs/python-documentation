@@ -1,4 +1,4 @@
-:mod:`json` --- JSON encoder and decoder
+:mod:`json` --- JSON的编码器和解码器
 ========================================
 
 .. module:: json

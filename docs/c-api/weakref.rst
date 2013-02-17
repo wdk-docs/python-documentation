@@ -2,7 +2,7 @@
 
 .. _weakrefobjects:
 
-Weak Reference Objects
+弱引用对象
 ----------------------
 
 Python supports *weak references* as first-class objects.  There are two

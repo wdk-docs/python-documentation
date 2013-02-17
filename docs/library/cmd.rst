@@ -1,4 +1,4 @@
-:mod:`cmd` --- Support for line-oriented command interpreters
+:mod:`cmd` --- 支持面向行的命令解释器
 =============================================================
 
 .. module:: cmd

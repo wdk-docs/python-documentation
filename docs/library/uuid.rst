@@ -1,4 +1,4 @@
-:mod:`uuid` --- UUID objects according to RFC 4122
+:mod:`uuid` --- 根据RFC 4122的UUID对象
 ==================================================
 
 .. module:: uuid

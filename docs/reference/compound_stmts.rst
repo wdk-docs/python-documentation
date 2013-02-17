@@ -74,7 +74,7 @@ on a separate line for clarity.
 .. _elif:
 .. _else:
 
-The :keyword:`if` statement
+:keyword:`if` 语句
 ===========================
 
 .. index::
@@ -100,7 +100,7 @@ false, the suite of the :keyword:`else` clause, if present, is executed.
 
 .. _while:
 
-The :keyword:`while` statement
+:keyword:`while` 语句
 ==============================
 
 .. index::
@@ -133,7 +133,7 @@ to testing the expression.
 
 .. _for:
 
-The :keyword:`for` statement
+:keyword:`for` 语句
 ============================
 
 .. index::
@@ -211,7 +211,7 @@ returns the list ``[0, 1, 2]``.
 .. _except:
 .. _finally:
 
-The :keyword:`try` statement
+:keyword:`try` 语句
 ============================
 
 .. index::
@@ -345,7 +345,7 @@ may be found in section :ref:`raise`.
 .. _with:
 .. _as:
 
-The :keyword:`with` statement
+:keyword:`with` 语句
 =============================
 
 .. index:: statement: with
@@ -423,7 +423,7 @@ is equivalent to ::
 .. _function:
 .. _def:
 
-Function definitions
+函数的定义
 ====================
 
 .. index::
@@ -559,7 +559,7 @@ access the local variables of the function containing the def.  See section
 
 .. _class:
 
-Class definitions
+类定义
 =================
 
 .. index::

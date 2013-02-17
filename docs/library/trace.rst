@@ -1,4 +1,4 @@
-:mod:`trace` --- Trace or track Python statement execution
+:mod:`trace` --- 跟踪或跟踪执行Python语句
 ==========================================================
 
 .. module:: trace

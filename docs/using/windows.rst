@@ -3,7 +3,7 @@
 .. _using-on-windows:
 
 *************************
- Using Python on Windows
+在Windows上使用Python
 *************************
 
 .. sectionauthor:: Robert Lehmann <lehmannro@gmail.com>
@@ -12,7 +12,7 @@ This document aims to give an overview of Windows-specific behaviour you should
 know about when using Python on Microsoft Windows.
 
 
-Installing Python
+安装Python
 =================
 
 Unlike most Unix systems and services, Windows does not require Python natively
@@ -57,7 +57,7 @@ for detailed information about platforms with precompiled installers.
       by Swaroop C H, 2003
 
 
-Alternative bundles
+另类捆绑
 ===================
 
 Besides the standard CPython distribution, there are modified packages including
@@ -75,7 +75,7 @@ Notice that these packages are likely to install *older* versions of Python.
 
 
 
-Configuring Python
+配置Python
 ==================
 
 In order to run Python flawlessly, you might have to change certain environment
@@ -84,7 +84,7 @@ settings in Windows.
 
 .. _setting-envvars:
 
-Excursus: Setting environment variables
+附记：设置环境变量
 ---------------------------------------
 
 Windows has a built-in dialog for changing environment variables (following
@@ -134,7 +134,7 @@ Consult :command:`set /?` for details on this behaviour.
 
 .. _windows-path-mod:
 
-Finding the Python executable
+寻找Python中的可执行文件
 -----------------------------
 
 .. versionchanged:: 3.3
@@ -161,7 +161,7 @@ like this (assuming the first two entries are Windows' default)::
     C:\WINDOWS\system32;C:\WINDOWS;C:\Python33
 
 
-Finding modules
+查找模块
 ---------------
 
 Python usually stores its library (and thereby your site-packages folder) in the
@@ -247,8 +247,8 @@ administrative rights):
 
 .. _launcher:
 
-Python Launcher for Windows
-===========================
+适用于Windows的Python的启动器
+===================================
 
 .. versionadded:: 3.3
 
@@ -257,10 +257,10 @@ execution of different Python versions.  It allows scripts (or the
 command-line) to indicate a preference for a specific Python version, and
 will locate and execute that version.
 
-Getting started
+入门
 ---------------
 
-From the command-line
+在命令行
 ^^^^^^^^^^^^^^^^^^^^^
 
 You should ensure the launcher is on your PATH - depending on how it was
@@ -292,7 +292,7 @@ If you have a Python 3.x installed, try the command:
 
 You should find the latest version of Python 3.x starts.
 
-From a script
+从脚本
 ^^^^^^^^^^^^^
 
 Let's create a test Python script - create a file called ``hello.py`` with the
@@ -489,7 +489,7 @@ particular version was chosen and the exact command-line used to execute the
 target Python.
 
 
-Additional modules
+附加模块
 ==================
 
 Even though Python aims to be portable among all platforms, there are features
@@ -548,7 +548,7 @@ Turbo-C's :file:`CONIO.H`, used to create text user interfaces.
 
 
 
-Compiling Python on Windows
+编译Windows上的Python
 ===========================
 
 If you want to compile CPython yourself, first thing you should do is get the
@@ -592,7 +592,7 @@ For extension modules, consult :ref:`building-on-windows`.
       by Trent Apted et al, 2007
 
 
-Other resources
+其他资源
 ===============
 
 .. seealso::

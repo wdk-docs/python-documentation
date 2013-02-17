@@ -1,4 +1,4 @@
-:mod:`email.encoders`: Encoders
+:mod:`email.encoders`: 编码器
 -------------------------------
 
 .. module:: email.encoders

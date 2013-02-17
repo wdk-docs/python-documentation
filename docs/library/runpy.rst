@@ -1,4 +1,4 @@
-:mod:`runpy` --- Locating and executing Python modules
+:mod:`runpy` --- 定位和执行Python模块
 ======================================================
 
 .. module:: runpy

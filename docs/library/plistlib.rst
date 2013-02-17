@@ -1,4 +1,4 @@
-:mod:`plistlib` --- Generate and parse Mac OS X ``.plist`` files
+:mod:`plistlib` --- 生成和解析的Mac OS X ``.plist`` 文件
 ================================================================
 
 .. module:: plistlib

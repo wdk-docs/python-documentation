@@ -296,7 +296,7 @@ and instance attributes <attr-target-note>` applies as for regular assignments.
 
 .. _assert:
 
-The :keyword:`assert` statement
+:keyword:`assert` 语句
 ===============================
 
 .. index::
@@ -338,7 +338,7 @@ is determined when the interpreter starts.
 
 .. _pass:
 
-The :keyword:`pass` statement
+:keyword:`pass` 语句
 =============================
 
 .. index::
@@ -360,7 +360,7 @@ code needs to be executed, for example::
 
 .. _del:
 
-The :keyword:`del` statement
+:keyword:`del` 语句
 ============================
 
 .. index::
@@ -399,7 +399,7 @@ the sliced object).
 
 .. _return:
 
-The :keyword:`return` statement
+:keyword:`return` 语句
 ===============================
 
 .. index::
@@ -432,7 +432,7 @@ becomes the :attr:`StopIteration.value` attribute.
 
 .. _yield:
 
-The :keyword:`yield` statement
+:keyword:`yield` 语句
 ==============================
 
 .. index::
@@ -495,7 +495,7 @@ section.
 
 .. _raise:
 
-The :keyword:`raise` statement
+:keyword:`raise` 语句
 ==============================
 
 .. index::
@@ -580,7 +580,7 @@ and information about handling exceptions is in section :ref:`try`.
 
 .. _break:
 
-The :keyword:`break` statement
+:keyword:`break` 语句
 ==============================
 
 .. index::
@@ -614,7 +614,7 @@ really leaving the loop.
 
 .. _continue:
 
-The :keyword:`continue` statement
+:keyword:`continue` 语句
 =================================
 
 .. index::
@@ -640,7 +640,7 @@ really starting the next loop cycle.
 .. _import:
 .. _from:
 
-The :keyword:`import` statement
+:keyword:`import` 语句
 ===============================
 
 .. index::
@@ -860,7 +860,7 @@ after the script is executed.
 
 .. _global:
 
-The :keyword:`global` statement
+:keyword:`global` 语句
 ===============================
 
 .. index::
@@ -905,7 +905,7 @@ call.  The same applies to the :func:`eval` and :func:`compile` functions.
 
 .. _nonlocal:
 
-The :keyword:`nonlocal` statement
+:keyword:`nonlocal` 语句
 =================================
 
 .. index:: statement: nonlocal

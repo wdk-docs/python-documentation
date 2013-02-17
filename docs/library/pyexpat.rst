@@ -1,4 +1,4 @@
-:mod:`xml.parsers.expat` --- Fast XML parsing using Expat
+:mod:`xml.parsers.expat` --- 使用外籍快速的XML解析
 =========================================================
 
 .. module:: xml.parsers.expat

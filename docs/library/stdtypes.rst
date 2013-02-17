@@ -4,7 +4,7 @@
 .. _bltin-types:
 
 **************
-Built-in Types
+内置类型
 **************
 
 The following sections describe the standard types that are built into the
@@ -28,7 +28,7 @@ written by the :func:`print` function.
 
 .. _truth:
 
-Truth Value Testing
+真值测试
 ===================
 
 .. index::
@@ -79,7 +79,7 @@ one of their operands.)
 
 .. _boolean:
 
-Boolean Operations --- :keyword:`and`, :keyword:`or`, :keyword:`not`
+布尔选项 --- :keyword:`and`, :keyword:`or`, :keyword:`not`
 ====================================================================
 
 .. index:: pair: Boolean; operations
@@ -121,7 +121,7 @@ Notes:
 
 .. _stdcomparisons:
 
-Comparisons
+比较
 ===========
 
 .. index::
@@ -207,7 +207,7 @@ Two more operations with the same syntactic priority, :keyword:`in` and
 
 .. _typesnumeric:
 
-Numeric Types --- :class:`int`, :class:`float`, :class:`complex`
+数值类型 --- :class:`int`, :class:`float`, :class:`complex`
 ================================================================
 
 .. index::
@@ -383,7 +383,7 @@ modules.
 
 .. _bitstring-ops:
 
-Bitwise Operations on Integer Types
+整数类型的位运算
 --------------------------------------
 
 .. index::
@@ -440,7 +440,7 @@ Notes:
    overflow check.
 
 
-Additional Methods on Integer Types
+其他整数类型的方法
 -----------------------------------
 
 The int type implements the :class:`numbers.Integral` :term:`abstract base
@@ -725,7 +725,7 @@ number, :class:`float`, or :class:`complex`::
 
 .. _typeiter:
 
-Iterator Types
+迭代器类型
 ==============
 
 .. index::
@@ -800,7 +800,7 @@ the yield expression <yieldexpr>`.
 
 .. _typesseq:
 
-Sequence Types --- :class:`list`, :class:`tuple`, :class:`range`
+序列类型 --- :class:`list`, :class:`tuple`, :class:`range`
 ================================================================
 
 There are three basic sequence types: lists, tuples, and range objects.
@@ -811,7 +811,7 @@ described in dedicated sections.
 
 .. _typesseq-common:
 
-Common Sequence Operations
+常用的序列操作
 --------------------------
 
 .. index:: object: sequence
@@ -979,7 +979,7 @@ Notes:
 
 .. _typesseq-immutable:
 
-Immutable Sequence Types
+不可变的序列类型
 ------------------------
 
 .. index::
@@ -1001,7 +1001,7 @@ result in :exc:`TypeError`.
 
 .. _typesseq-mutable:
 
-Mutable Sequence Types
+可变的序列类型
 ----------------------
 
 .. index::
@@ -1109,7 +1109,7 @@ Notes:
 
 .. _typesseq-list:
 
-Lists
+列表
 -----
 
 .. index:: object: list
@@ -1183,7 +1183,7 @@ application).
 
 .. _typesseq-tuple:
 
-Tuples
+元组
 ------
 
 .. index:: object: tuple
@@ -1227,7 +1227,7 @@ choice than a simple tuple object.
 
 .. _typesseq-range:
 
-Ranges
+范围
 ------
 
 .. index:: object: range
@@ -1353,7 +1353,7 @@ range(2, 1, 3)`` or ``range(0, 3, 2) == range(0, 4, 2)``.)
 
 .. _textseq:
 
-Text Sequence Type --- :class:`str`
+文本序列类型 --- :class:`str`
 ===================================
 
 Textual data in Python is handled with :class:`str` objects, or :dfn:`strings`.
@@ -1445,7 +1445,7 @@ multiple fragments.
 
 .. _string-methods:
 
-String Methods
+字符串的方法
 --------------
 
 .. index::
@@ -1930,7 +1930,7 @@ expression support in the :mod:`re` module).
 
 .. _old-string-formatting:
 
-``printf``-style String Formatting
+``printf``-风格的字符串格式化
 ----------------------------------
 
 .. index::
@@ -2119,7 +2119,7 @@ that ``'\0'`` is the end of the string.
 
 .. _binaryseq:
 
-Binary Sequence Types --- :class:`bytes`, :class:`bytearray`, :class:`memoryview`
+二进制序列类型 --- :class:`bytes`, :class:`bytearray`, :class:`memoryview`
 =================================================================================
 
 .. index::
@@ -2205,7 +2205,7 @@ always convert a bytes object into a list of integers using ``list(b)``.
 
 .. _typebytearray:
 
-Bytearray Objects
+字节数组对象
 -----------------
 
 .. index:: object: bytearray
@@ -2228,7 +2228,7 @@ Also see the :ref:`bytearray <func-bytearray>` built-in.
 
 .. _bytes-methods:
 
-Bytes and Bytearray Operations
+字节和字节数组操作
 ------------------------------
 
 .. index:: pair: bytes; methods
@@ -2352,7 +2352,7 @@ available on strings:
 
 .. _typememoryview:
 
-Memory Views
+存储器视图
 ------------
 
 :class:`memoryview` objects allow Python code to access the internal data
@@ -2774,7 +2774,7 @@ copying.
 
 .. _types-set:
 
-Set Types --- :class:`set`, :class:`frozenset`
+集合类型 --- :class:`set`, :class:`frozenset`
 ==============================================
 
 .. index:: object: set
@@ -2970,7 +2970,7 @@ The constructors for both classes work the same:
 
 .. _typesmapping:
 
-Mapping Types --- :class:`dict`
+映射类型 --- :class:`dict`
 ===============================
 
 .. index::
@@ -3165,7 +3165,7 @@ pairs within braces, for example: ``{'jack': 4098, 'sjoerd': 4127}`` or ``{4098:
 
 .. _dict-views:
 
-Dictionary view objects
+字典视图对象
 -----------------------
 
 The objects returned by :meth:`dict.keys`, :meth:`dict.values` and
@@ -3243,7 +3243,7 @@ An example of dictionary view usage::
 
 .. _typecontextmanager:
 
-Context Manager Types
+上下文管理器类型
 =====================
 
 .. index::
@@ -3318,7 +3318,7 @@ single class dictionary lookup is negligible.
 
 .. _typesother:
 
-Other Built-in Types
+其他内置类型
 ====================
 
 The interpreter supports several other kinds of objects. Most of these support
@@ -3327,7 +3327,7 @@ only one or two operations.
 
 .. _typesmodules:
 
-Modules
+模块
 -------
 
 The only special operation on a module is attribute access: ``m.name``, where
@@ -3351,7 +3351,7 @@ Modules built into the interpreter are written like this: ``<module 'sys'
 
 .. _typesobjects:
 
-Classes and Class Instances
+类和类实例
 ---------------------------
 
 See :ref:`objects` and :ref:`class` for these.
@@ -3359,7 +3359,7 @@ See :ref:`objects` and :ref:`class` for these.
 
 .. _typesfunctions:
 
-Functions
+函数
 ---------
 
 Function objects are created by function definitions.  The only operation on a
@@ -3374,7 +3374,7 @@ See :ref:`function` for more information.
 
 .. _typesmethods:
 
-Methods
+方法
 -------
 
 .. index:: object: method
@@ -3418,7 +3418,7 @@ See :ref:`types` for more information.
 
 .. _bltin-code-objects:
 
-Code Objects
+代码对象
 ------------
 
 .. index:: object: code
@@ -3446,7 +3446,7 @@ See :ref:`types` for more information.
 
 .. _bltin-type-objects:
 
-Type Objects
+类对象
 ------------
 
 .. index::
@@ -3463,7 +3463,7 @@ Types are written like this: ``<class 'int'>``.
 
 .. _bltin-null-object:
 
-The Null Object
+Null 对象
 ---------------
 
 This object is returned by functions that don't explicitly return a value.  It
@@ -3475,7 +3475,7 @@ It is written as ``None``.
 
 .. _bltin-ellipsis-object:
 
-The Ellipsis Object
+省略对象
 -------------------
 
 This object is commonly used by slicing (see :ref:`slicings`).  It supports no
@@ -3488,7 +3488,7 @@ It is written as ``Ellipsis`` or ``...``.
 
 .. _bltin-notimplemented-object:
 
-The NotImplemented Object
+未实现对象
 -------------------------
 
 This object is returned from comparisons and binary operations when they are
@@ -3501,7 +3501,7 @@ It is written as ``NotImplemented``.
 
 .. _bltin-boolean-values:
 
-Boolean Values
+布尔值
 --------------
 
 Boolean values are the two constant objects ``False`` and ``True``.  They are
@@ -3522,7 +3522,7 @@ They are written as ``False`` and ``True``, respectively.
 
 .. _typesinternal:
 
-Internal Objects
+内部对象
 ----------------
 
 See :ref:`types` for this information.  It describes stack frame objects,
@@ -3531,7 +3531,7 @@ traceback objects, and slice objects.
 
 .. _specialattrs:
 
-Special Attributes
+特殊属性
 ==================
 
 The implementation adds a few special read-only attributes to several object

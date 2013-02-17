@@ -2,7 +2,7 @@
 
 .. _iterator:
 
-Iterator Protocol
+迭代器协议
 =================
 
 There are only a couple of functions specifically for working with iterators.

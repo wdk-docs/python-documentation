@@ -1,6 +1,6 @@
 .. _xml:
 
-XML Processing Modules
+XML处理模块
 ======================
 
 Python's interfaces for processing XML are grouped in the ``xml`` package.

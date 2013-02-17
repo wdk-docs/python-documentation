@@ -33,7 +33,7 @@ expect that few readers have heard of it.)
 
 .. _tut-object:
 
-A Word About Names and Objects
+关于名称和对象的话
 ==============================
 
 Objects have individuality, and multiple names (in multiple scopes) can be bound
@@ -51,7 +51,7 @@ need for two different argument passing mechanisms as in Pascal.
 
 .. _tut-scopes:
 
-Python Scopes and Namespaces
+Python的作用域和命名空间
 ============================
 
 Before introducing classes, I first have to tell you something about Python's
@@ -152,7 +152,7 @@ an enclosing scope and should be rebound there.
 
 .. _tut-scopeexample:
 
-Scopes and Namespaces Example
+作用域和命名空间示例
 -----------------------------
 
 This is an example demonstrating how to reference the different scopes and
@@ -200,7 +200,7 @@ You can also see that there was no previous binding for *spam* before the
 
 .. _tut-firstclasses:
 
-A First Look at Classes
+初识类
 =======================
 
 Classes introduce a little bit of new syntax, three new object types, and some
@@ -209,7 +209,7 @@ new semantics.
 
 .. _tut-classdefinition:
 
-Class Definition Syntax
+类定义语法
 -----------------------
 
 The simplest form of class definition looks like this::
@@ -247,7 +247,7 @@ example).
 
 .. _tut-classobjects:
 
-Class Objects
+类对象
 -------------
 
 Class objects support two kinds of operations: attribute references and
@@ -309,7 +309,7 @@ are passed on to :meth:`__init__`.  For example, ::
 
 .. _tut-instanceobjects:
 
-Instance Objects
+实例对象
 ----------------
 
 Now what can we do with instance objects?  The only operations understood by
@@ -347,7 +347,7 @@ is a *method object*, not a function object.
 
 .. _tut-methodobjects:
 
-Method Objects
+方法对象
 --------------
 
 Usually, a method is called right after it is bound::
@@ -390,7 +390,7 @@ argument list.
 
 .. _tut-remarks:
 
-Random Remarks
+漫谈
 ==============
 
 .. These should perhaps be placed more carefully...
@@ -475,7 +475,7 @@ It is stored as ``object.__class__``.
 
 .. _tut-inheritance:
 
-Inheritance
+继承权
 ===========
 
 Of course, a language feature would not be worthy of the name "class" without
@@ -536,7 +536,7 @@ Python has two built-in functions that work with inheritance:
 
 .. _tut-multiple:
 
-Multiple Inheritance
+多重继承
 --------------------
 
 Python supports a form of multiple inheritance as well.  A class definition with
@@ -578,7 +578,7 @@ http://www.python.org/download/releases/2.3/mro/.
 
 .. _tut-private:
 
-Private Variables
+私有变量
 =================
 
 "Private" instance variables that cannot be accessed except from inside an
@@ -633,7 +633,7 @@ to code that is byte-compiled together.  The same restriction applies to
 
 .. _tut-odds:
 
-Odds and Ends
+零碎
 =============
 
 Sometimes it is useful to have a data type similar to the Pascal "record" or C
@@ -668,7 +668,7 @@ corresponding to the method.
 
 .. _tut-exceptionclasses:
 
-Exceptions Are Classes Too
+异常也是类
 ==========================
 
 User-defined exceptions are identified by classes as well.  Using this mechanism
@@ -717,7 +717,7 @@ converted to a string using the built-in function :func:`str`.
 
 .. _tut-iterators:
 
-Iterators
+迭代器
 =========
 
 By now you have probably noticed that most container objects can be looped over
@@ -793,7 +793,7 @@ defines :meth:`__next__`, then :meth:`__iter__` can just return ``self``::
 
 .. _tut-generators:
 
-Generators
+发电机
 ==========
 
 :term:`Generator`\s are a simple and powerful tool for creating iterators.  They
@@ -835,7 +835,7 @@ than writing a regular function.
 
 .. _tut-genexps:
 
-Generator Expressions
+生成器表达式
 =====================
 
 Some simple generators can be coded succinctly as expressions using a syntax

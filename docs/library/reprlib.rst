@@ -1,4 +1,4 @@
-:mod:`reprlib` --- Alternate :func:`repr` implementation
+:mod:`reprlib` --- 备用 :func:`repr` 履行
 ========================================================
 
 .. module:: reprlib

@@ -2,7 +2,7 @@
 
 .. _sequence:
 
-Sequence Protocol
+序列协议
 =================
 
 

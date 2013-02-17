@@ -1,4 +1,4 @@
-:mod:`pprint` --- Data pretty printer
+:mod:`pprint` --- 数据漂亮的打印机
 =====================================
 
 .. module:: pprint

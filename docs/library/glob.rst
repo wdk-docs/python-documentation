@@ -1,4 +1,4 @@
-:mod:`glob` --- Unix style pathname pattern expansion
+:mod:`glob` --- Unix风格的路径名模式扩展
 =====================================================
 
 .. module:: glob

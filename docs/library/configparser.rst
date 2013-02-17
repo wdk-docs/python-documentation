@@ -1,4 +1,4 @@
-:mod:`configparser` --- Configuration file parser
+:mod:`configparser` --- 配置文件解析器
 =================================================
 
 .. module:: configparser

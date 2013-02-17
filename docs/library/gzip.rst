@@ -1,4 +1,4 @@
-:mod:`gzip` --- Support for :program:`gzip` files
+:mod:`gzip` --- 支持 :program:`gzip` 文件
 =================================================
 
 .. module:: gzip

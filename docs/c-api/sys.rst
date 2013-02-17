@@ -2,7 +2,7 @@
 
 .. _os:
 
-Operating System Utilities
+操作系统实用程序
 ==========================
 
 

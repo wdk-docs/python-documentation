@@ -1,4 +1,4 @@
-:mod:`platform` ---  Access to underlying platform's identifying data
+:mod:`platform` ---  基础平台的识别数据的访问
 =====================================================================
 
 .. module:: platform

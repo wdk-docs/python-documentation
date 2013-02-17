@@ -137,7 +137,7 @@ Thanks to the many outside volunteers who have worked under Guido's direction to
 make these releases possible.
 
 
-Terms and conditions for accessing or otherwise using Python
+访问或以其它方式使用Python的条款和条件
 ============================================================
 
 
@@ -318,14 +318,14 @@ ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
 SOFTWARE.
 
 
-Licenses and Acknowledgements for Incorporated Software
+内嵌软件的许可证和确认书
 =======================================================
 
 This section is an incomplete, but growing list of licenses and acknowledgements
 for third-party software incorporated in the Python distribution.
 
 
-Mersenne Twister
+梅森难题
 ----------------
 
 The :mod:`_random` module includes code based on a download from
@@ -374,7 +374,7 @@ the verbatim comments from the original code::
    email: m-mat @ math.sci.hiroshima-u.ac.jp (remove space)
 
 
-Sockets
+套接字
 -------
 
 The :mod:`socket` module uses the functions, :func:`getaddrinfo`, and
@@ -409,7 +409,7 @@ Project, http://www.wide.ad.jp/. ::
    SUCH DAMAGE.
 
 
-Floating point exception control
+浮点异常控制
 --------------------------------
 
 The source for the :mod:`fpectl` module includes the following notice::
@@ -451,7 +451,7 @@ The source for the :mod:`fpectl` module includes the following notice::
      ---------------------------------------------------------------------
 
 
-Asynchronous socket services
+异步套接字服务
 ----------------------------
 
 The :mod:`asynchat` and :mod:`asyncore` modules contain the following notice::
@@ -478,7 +478,7 @@ The :mod:`asynchat` and :mod:`asyncore` modules contain the following notice::
    CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 
-Cookie management
+Cookie管理
 -----------------
 
 The :mod:`http.cookies` module contains the following notice::
@@ -506,7 +506,7 @@ The :mod:`http.cookies` module contains the following notice::
    PERFORMANCE OF THIS SOFTWARE.
 
 
-Execution tracing
+执行跟踪
 -----------------
 
 The :mod:`trace` module contains the following notice::
@@ -539,7 +539,7 @@ The :mod:`trace` module contains the following notice::
    distribution of the software without specific, written prior permission.
 
 
-UUencode and UUdecode functions
+Uuencode和Uudecode的功能
 -------------------------------
 
 The :mod:`uu` module contains the following notice::
@@ -569,7 +569,7 @@ The :mod:`uu` module contains the following notice::
    - Arguments more compliant with Python standard
 
 
-XML Remote Procedure Calls
+XML的远程过程调用
 --------------------------
 
 The :mod:`xmlrpc.client` module contains the following notice::
@@ -628,7 +628,7 @@ The :mod:`test_epoll` contains the following notice::
   OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
   WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Select kqueue
+选择kqueue
 -------------
 
 The :mod:`select` and contains the following notice for the kqueue interface::

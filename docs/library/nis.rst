@@ -1,5 +1,5 @@
 
-:mod:`nis` --- Interface to Sun's NIS (Yellow Pages)
+:mod:`nis` --- 接口Sun的NIS（黄页）
 ====================================================
 
 .. module:: nis

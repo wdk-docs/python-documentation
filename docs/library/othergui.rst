@@ -1,6 +1,6 @@
 .. _other-gui-packages:
 
-Other Graphical User Interface Packages
+其他图形用户界面的软件包
 =======================================
 
 Major cross-platform (Windows, Mac OS X, Unix-like) GUI toolkits are

@@ -1,4 +1,4 @@
-:mod:`posix` --- The most common POSIX system calls
+:mod:`posix` --- 最常见的POSIX系统调用
 ===================================================
 
 .. module:: posix

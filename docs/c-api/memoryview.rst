@@ -5,7 +5,7 @@
 .. index::
    object: memoryview
 
-MemoryView objects
+MemoryView对象
 ------------------
 
 A :class:`memoryview` object exposes the C level :ref:`buffer interface

@@ -1,7 +1,7 @@
 .. _archiving:
 
 ******************************
-Data Compression and Archiving
+数据压缩和归档
 ******************************
 
 The modules described in this chapter support data compression with the zlib,

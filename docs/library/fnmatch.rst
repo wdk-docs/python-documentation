@@ -1,4 +1,4 @@
-:mod:`fnmatch` --- Unix filename pattern matching
+:mod:`fnmatch` --- UNIX文件名模式匹配
 =================================================
 
 .. module:: fnmatch

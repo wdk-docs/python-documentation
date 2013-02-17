@@ -1,7 +1,7 @@
 .. _package-upload:
 
 ***************************************
-Uploading Packages to the Package Index
+上传软件包到软件包的索引
 ***************************************
 
 The Python Package Index (PyPI) not only stores the package info, but also  the

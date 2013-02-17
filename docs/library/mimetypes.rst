@@ -1,4 +1,4 @@
-:mod:`mimetypes` --- Map filenames to MIME types
+:mod:`mimetypes` --- 地图文件名的MIME类型
 ================================================
 
 .. module:: mimetypes

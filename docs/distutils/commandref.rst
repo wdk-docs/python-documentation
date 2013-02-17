@@ -1,7 +1,7 @@
 .. _reference:
 
 *****************
-Command Reference
+命令参考
 *****************
 
 .. % \section{Building modules: the \protect\command{build} command family}

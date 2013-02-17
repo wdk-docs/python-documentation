@@ -1,4 +1,4 @@
-:mod:`sys` --- System-specific parameters and functions
+:mod:`sys` --- 系统的具体参数和功能
 =======================================================
 
 .. module:: sys

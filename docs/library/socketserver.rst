@@ -1,4 +1,4 @@
-:mod:`socketserver` --- A framework for network servers
+:mod:`socketserver` --- 网络服务器的框架
 =======================================================
 
 .. module:: socketserver

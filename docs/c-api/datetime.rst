@@ -2,7 +2,7 @@
 
 .. _datetimeobjects:
 
-DateTime Objects
+DateTime对象
 ----------------
 
 Various date and time objects are supplied by the :mod:`datetime` module.

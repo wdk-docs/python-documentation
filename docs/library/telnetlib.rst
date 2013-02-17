@@ -1,4 +1,4 @@
-:mod:`telnetlib` --- Telnet client
+:mod:`telnetlib` --- Telnet 客户端
 ==================================
 
 .. module:: telnetlib

@@ -2,7 +2,7 @@
 
 .. _object:
 
-Object Protocol
+对象协议
 ===============
 
 

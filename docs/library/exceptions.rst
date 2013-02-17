@@ -1,6 +1,6 @@
 .. _bltin-exceptions:
 
-Built-in Exceptions
+内置异常
 ===================
 
 .. index::
@@ -66,7 +66,7 @@ exceptions so that the final line of the traceback always shows the last
 exception that was raised.
 
 
-Base classes
+基础类
 ------------
 
 The following exceptions are used mostly as base classes for other exceptions.
@@ -125,7 +125,7 @@ The following exceptions are used mostly as base classes for other exceptions.
    can be raised directly by :func:`codecs.lookup`.
 
 
-Concrete exceptions
+具体异常
 -------------------
 
 The following exceptions are the exceptions that are usually raised.
@@ -464,7 +464,7 @@ starting from Python 3.3, they are aliases of :exc:`OSError`.
    Only available on Windows.
 
 
-OS exceptions
+OS 异常
 ^^^^^^^^^^^^^
 
 The following exceptions are subclasses of :exc:`OSError`, they get raised
@@ -575,7 +575,7 @@ depending on the system error code.
    :pep:`3151` - Reworking the OS and IO exception hierarchy
 
 
-Warnings
+警告
 --------
 
 The following exceptions are used as warning categories; see the :mod:`warnings`
@@ -640,7 +640,7 @@ module for more information.
 
 
 
-Exception hierarchy
+异常等级
 -------------------
 
 The class hierarchy for built-in exceptions is:

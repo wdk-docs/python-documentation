@@ -1,4 +1,4 @@
-:mod:`nntplib` --- NNTP protocol client
+:mod:`nntplib` --- NNTP协议客户端
 =======================================
 
 .. module:: nntplib

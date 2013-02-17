@@ -1,4 +1,4 @@
-:mod:`email.message`: Representing an email message
+:mod:`email.message`: 表示电子邮件
 ---------------------------------------------------
 
 .. module:: email.message

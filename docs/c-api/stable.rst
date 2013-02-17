@@ -3,7 +3,7 @@
 .. _stable:
 
 **********************************
-Stable Appliction Binary Interface
+稳定机应用二进制接口
 **********************************
 
 Traditionally, the C API of Python will change with every release.

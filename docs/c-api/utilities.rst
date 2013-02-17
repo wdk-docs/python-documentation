@@ -3,7 +3,7 @@
 .. _utilities:
 
 *********
-Utilities
+实用工具
 *********
 
 The functions in this chapter perform various utility tasks, ranging from

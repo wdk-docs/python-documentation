@@ -1,4 +1,4 @@
-:mod:`pwd` --- The password database
+:mod:`pwd` --- 密码数据库
 ====================================
 
 .. module:: pwd

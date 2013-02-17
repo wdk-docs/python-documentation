@@ -1,4 +1,4 @@
-:mod:`keyword` --- Testing for Python keywords
+:mod:`keyword` --- Python的关键字测试
 ==============================================
 
 .. module:: keyword

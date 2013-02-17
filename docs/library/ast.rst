@@ -1,4 +1,4 @@
-:mod:`ast` --- Abstract Syntax Trees
+:mod:`ast` --- 抽象语法树
 ====================================
 
 .. module:: ast

@@ -1,7 +1,7 @@
 .. _fileformats:
 
 ************
-File Formats
+文件格式
 ************
 
 The modules described in this chapter parse various miscellaneous file formats

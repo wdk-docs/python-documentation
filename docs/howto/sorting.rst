@@ -1,6 +1,6 @@
 .. _sortinghowto:
 
-Sorting HOW TO
+排序 HOW TO
 **************
 
 :Author: Andrew Dalke and Raymond Hettinger

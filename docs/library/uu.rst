@@ -1,4 +1,4 @@
-:mod:`uu` --- Encode and decode uuencode files
+:mod:`uu` --- UUENCODE编码和解码文件
 ==============================================
 
 .. module:: uu

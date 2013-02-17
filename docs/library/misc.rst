@@ -1,7 +1,7 @@
 .. _misc:
 
 **********************
-Miscellaneous Services
+杂项服务
 **********************
 
 The modules described in this chapter provide miscellaneous services that are

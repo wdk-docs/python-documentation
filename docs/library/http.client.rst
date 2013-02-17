@@ -1,4 +1,4 @@
-:mod:`http.client` --- HTTP protocol client
+:mod:`http.client` --- HTTP协议的客户端
 ===========================================
 
 .. module:: http.client

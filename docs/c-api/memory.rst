@@ -4,7 +4,7 @@
 .. _memory:
 
 *****************
-Memory Management
+内存管理
 *****************
 
 .. sectionauthor:: Vladimir Marangozov <Vladimir.Marangozov@inrialpes.fr>

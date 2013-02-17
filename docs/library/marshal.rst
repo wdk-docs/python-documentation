@@ -1,4 +1,4 @@
-:mod:`marshal` --- Internal Python object serialization
+:mod:`marshal` --- 内部的Python对象序列化
 =======================================================
 
 .. module:: marshal

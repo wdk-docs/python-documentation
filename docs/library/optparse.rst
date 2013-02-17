@@ -1,4 +1,4 @@
-:mod:`optparse` --- Parser for command line options
+:mod:`optparse` --- 分析器的命令行选项
 ===================================================
 
 .. module:: optparse

@@ -3,7 +3,7 @@
 .. _abstract:
 
 **********************
-Abstract Objects Layer
+抽象对象层
 **********************
 
 The functions in this chapter interact with Python objects regardless of their

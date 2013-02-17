@@ -1,7 +1,7 @@
 .. _library-index:
 
 ###############################
-  Python标准库
+Python标准库
 ###############################
 
 While :ref:`reference-index` describes the exact syntax and

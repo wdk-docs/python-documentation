@@ -1,7 +1,7 @@
 .. _socket-howto:
 
 ****************************
-  Socket Programming HOWTO
+  Socket编程HOWTO
 ****************************
 
 :Author: Gordon McMillan

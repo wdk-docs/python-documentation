@@ -1,4 +1,4 @@
-:mod:`ipaddress` --- IPv4/IPv6 manipulation library
+:mod:`ipaddress` --- IPv4/IPv6的操作库
 ===================================================
 
 .. module:: ipaddress

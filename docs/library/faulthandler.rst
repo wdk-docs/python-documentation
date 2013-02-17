@@ -1,4 +1,4 @@
-:mod:`faulthandler` --- Dump the Python traceback
+:mod:`faulthandler` --- 转储的Python追踪
 =================================================
 
 .. module:: faulthandler

@@ -1,7 +1,7 @@
 .. _language:
 
 ************************
-Python Language Services
+Python语言服务
 ************************
 
 Python provides a number of modules to assist in working with the Python

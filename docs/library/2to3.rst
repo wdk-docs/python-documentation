@@ -1,6 +1,6 @@
 .. _2to3-reference:
 
-2to3 - Automated Python 2 to 3 code translation
+2to3 - 自动Python2到3代码翻译
 ===============================================
 
 .. sectionauthor:: Benjamin Peterson <benjamin@python.org>
@@ -16,7 +16,7 @@ automatically.
 
 .. _2to3-using:
 
-Using 2to3
+使用2to3
 ----------
 
 2to3 will usually be installed with the Python interpreter as a script.  It is

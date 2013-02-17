@@ -1,8 +1,8 @@
 .. _tut-whatnow:
 
-*********
+*************
 现在做什么?
-*********
+*************
 
 Reading this tutorial has probably reinforced your interest in using Python ---
 you should be eager to apply Python to solving your real-world problems. Where
@@ -28,7 +28,7 @@ the set are:
   semantics.  It's heavy reading, but is useful as a complete guide to the
   language itself.
 
-More Python resources:
+更多的Python资源:
 
 * http://www.python.org:  The major Python Web site.  It contains code,
   documentation, and pointers to Python-related pages around the Web.  This Web

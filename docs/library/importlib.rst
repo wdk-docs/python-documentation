@@ -1,4 +1,4 @@
-:mod:`importlib` -- An implementation of :keyword:`import`
+:mod:`importlib` -- 执行 :keyword:`import`
 ==========================================================
 
 .. module:: importlib

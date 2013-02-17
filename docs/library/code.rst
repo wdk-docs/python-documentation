@@ -1,4 +1,4 @@
-:mod:`code` --- Interpreter base classes
+:mod:`code` --- 口译基类
 ========================================
 
 .. module:: code

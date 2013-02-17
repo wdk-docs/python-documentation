@@ -1,4 +1,4 @@
-:mod:`audioop` --- Manipulate raw audio data
+:mod:`audioop` --- 操作原始的音频数据
 ============================================
 
 .. module:: audioop

@@ -1,7 +1,7 @@
 .. _built-dist:
 
 ****************************
-Creating Built Distributions
+创建内置分布
 ****************************
 
 A "built distribution" is what you're probably used to thinking of either as a

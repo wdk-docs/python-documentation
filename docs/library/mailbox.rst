@@ -1,4 +1,4 @@
-:mod:`mailbox` --- Manipulate mailboxes in various formats
+:mod:`mailbox` --- 操作各种格式的邮箱中
 ==========================================================
 
 .. module:: mailbox

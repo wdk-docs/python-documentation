@@ -1,4 +1,4 @@
-:mod:`tkinter.ttk` --- Tk themed widgets
+:mod:`tkinter.ttk` --- Tk的主题部件
 ========================================
 
 .. module:: tkinter.ttk

@@ -1,4 +1,4 @@
-:mod:`select` --- Waiting for I/O completion
+:mod:`select` --- 等待I / O完成
 ============================================
 
 .. module:: select

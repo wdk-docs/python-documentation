@@ -1,4 +1,4 @@
-:mod:`logging.config` --- Logging configuration
+:mod:`logging.config` --- 日志记录配置
 ===============================================
 
 .. module:: logging.config

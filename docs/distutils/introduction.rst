@@ -1,7 +1,7 @@
 .. _distutils-intro:
 
 ****************************
-An Introduction to Distutils
+Distutils介绍
 ****************************
 
 This document covers using the Distutils to distribute your Python modules,

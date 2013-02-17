@@ -1,4 +1,4 @@
-:mod:`threading` --- Thread-based parallelism
+:mod:`threading` --- 基于线程的并行
 =============================================
 
 .. module:: threading

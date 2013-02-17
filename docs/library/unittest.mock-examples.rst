@@ -1,4 +1,4 @@
-:mod:`unittest.mock` --- getting started
+:mod:`unittest.mock` --- 入门
 ========================================
 
 .. moduleauthor:: Michael Foord <michael@python.org>

@@ -1,7 +1,7 @@
 .. _package-index:
 
 **********************************
-Registering with the Package Index
+包索引注册
 **********************************
 
 The Python Package Index (PyPI) holds meta-data describing distributions

@@ -1,4 +1,4 @@
-:mod:`array` --- Efficient arrays of numeric values
+:mod:`array` --- 数字值的有效阵列
 ===================================================
 
 .. module:: array

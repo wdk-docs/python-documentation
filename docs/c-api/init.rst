@@ -4,7 +4,7 @@
 .. _initialization:
 
 *****************************************
-Initialization, Finalization, and Threads
+初始化，完成和线程
 *****************************************
 
 

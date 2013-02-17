@@ -1,4 +1,4 @@
-The :mod:`concurrent` package
+:mod:`concurrent` 包
 =============================
 
 Currently, there is only one module in this package:

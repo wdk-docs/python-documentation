@@ -2,7 +2,7 @@
 
 .. _floatobjects:
 
-Floating Point Objects
+浮点对象
 ----------------------
 
 .. index:: object: floating point

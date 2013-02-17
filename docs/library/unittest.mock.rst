@@ -1,5 +1,5 @@
 
-:mod:`unittest.mock` --- mock object library
+:mod:`unittest.mock` --- mock对象库
 ============================================
 
 .. module:: unittest.mock

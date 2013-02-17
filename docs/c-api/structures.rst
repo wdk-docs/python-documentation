@@ -2,7 +2,7 @@
 
 .. _common-structs:
 
-Common Object Structures
+常见的对象结构
 ========================
 
 There are a large number of structures which are used in the definition of

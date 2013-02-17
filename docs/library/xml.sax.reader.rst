@@ -1,4 +1,4 @@
-:mod:`xml.sax.xmlreader` --- Interface for XML parsers
+:mod:`xml.sax.xmlreader` --- XML解析器接口
 ======================================================
 
 .. module:: xml.sax.xmlreader

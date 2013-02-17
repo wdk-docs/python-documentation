@@ -1,4 +1,4 @@
-:mod:`stringprep` --- Internet String Preparation
+:mod:`stringprep` --- 互联网的字符串准备
 =================================================
 
 .. module:: stringprep

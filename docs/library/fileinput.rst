@@ -1,4 +1,4 @@
-:mod:`fileinput` --- Iterate over lines from multiple input streams
+:mod:`fileinput` --- 从多个输入流迭代
 ===================================================================
 
 .. module:: fileinput

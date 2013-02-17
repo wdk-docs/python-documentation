@@ -1,4 +1,4 @@
-:mod:`math` --- Mathematical functions
+:mod:`math` --- 数学函数
 ======================================
 
 .. module:: math

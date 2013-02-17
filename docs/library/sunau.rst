@@ -1,4 +1,4 @@
-:mod:`sunau` --- Read and write Sun AU files
+:mod:`sunau` --- Sun AU文件的读取和写入
 ============================================
 
 .. module:: sunau

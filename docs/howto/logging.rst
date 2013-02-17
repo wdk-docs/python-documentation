@@ -1,5 +1,5 @@
 =============
-Logging HOWTO
+日志 HOWTO
 =============
 
 :Author: Vinay Sajip <vinay_sajip at red-dove dot com>

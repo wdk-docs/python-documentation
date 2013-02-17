@@ -1,4 +1,4 @@
-:mod:`binhex` --- Encode and decode binhex4 files
+:mod:`binhex` --- 编码和解码binhex4文件
 =================================================
 
 .. module:: binhex

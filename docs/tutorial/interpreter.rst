@@ -7,7 +7,7 @@
 
 .. _tut-invoking:
 
-Invoking the Interpreter
+调用解释器
 ========================
 
 The Python interpreter is usually installed as :file:`/usr/local/bin/python3.4`
@@ -67,7 +67,7 @@ before the script.
 
 .. _tut-argpassing:
 
-Argument Passing
+参数传递
 ----------------
 
 When known to the interpreter, the script name and additional arguments
@@ -85,7 +85,7 @@ left in ``sys.argv`` for  the command or module to handle.
 
 .. _tut-interactive:
 
-Interactive Mode
+互动模式
 ----------------
 
 When commands are read from a tty, the interpreter is said to be in *interactive
@@ -115,13 +115,13 @@ example, take a look at this :keyword:`if` statement::
 
 .. _tut-interp:
 
-The Interpreter and Its Environment
+解释器和它的环境
 ===================================
 
 
 .. _tut-error:
 
-Error Handling
+错误处理
 --------------
 
 When an error occurs, the interpreter prints an error message and a stack trace.
@@ -143,7 +143,7 @@ statement.
 
 .. _tut-scripts:
 
-Executable Python Scripts
+可执行的Python脚本
 -------------------------
 
 On BSD'ish Unix systems, Python scripts can be made directly executable, like
@@ -172,7 +172,7 @@ suppressed.
 
 .. _tut-source-encoding:
 
-Source Code Encoding
+源代码编码
 --------------------
 
 By default, Python source files are treated as encoded in UTF-8.  In that
@@ -205,7 +205,7 @@ within the file.
 
 .. _tut-startup:
 
-The Interactive Startup File
+交互式环境的启动文件
 ----------------------------
 
 When you use Python interactively, it is frequently handy to have some standard
@@ -239,7 +239,7 @@ in the script::
 
 .. _tut-customize:
 
-The Customization Modules
+自定义模块
 -------------------------
 
 Python provides two hooks to let you customize it: :mod:`sitecustomize` and

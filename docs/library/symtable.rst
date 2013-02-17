@@ -1,4 +1,4 @@
-:mod:`symtable` --- Access to the compiler's symbol tables
+:mod:`symtable` --- 编译器的符号表
 ==========================================================
 
 .. module:: symtable

@@ -2,7 +2,7 @@
 
 .. _supporting-cycle-detection:
 
-Supporting Cyclic Garbage Collection
+支持循环垃圾收集
 ====================================
 
 Python's support for detecting and collecting garbage which involves circular

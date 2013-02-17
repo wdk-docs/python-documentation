@@ -1,4 +1,4 @@
-:mod:`queue` --- A synchronized queue class
+:mod:`queue` --- 同步队列类
 ===========================================
 
 .. module:: queue

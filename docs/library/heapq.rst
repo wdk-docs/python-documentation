@@ -1,4 +1,4 @@
-:mod:`heapq` --- Heap queue algorithm
+:mod:`heapq` --- 堆队列算法
 =====================================
 
 .. module:: heapq

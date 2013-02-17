@@ -1,4 +1,4 @@
-:mod:`bdb` --- Debugger framework
+:mod:`bdb` --- 调试器框架
 =================================
 
 .. module:: bdb

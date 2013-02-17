@@ -1,4 +1,4 @@
-:mod:`difflib` --- Helpers for computing deltas
+:mod:`difflib` --- 计算增量助手
 ===============================================
 
 .. module:: difflib

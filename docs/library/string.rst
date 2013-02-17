@@ -1,4 +1,4 @@
-:mod:`string` --- Common string operations
+:mod:`string` --- 常见的字符串操作
 ==========================================
 
 .. module:: string
@@ -14,7 +14,7 @@
 
    :ref:`string-methods`
 
-String constants
+字符常量
 ----------------
 
 The constants defined in this module are:
@@ -75,7 +75,7 @@ The constants defined in this module are:
 
 .. _string-formatting:
 
-String Formatting
+字符格式化
 -----------------
 
 The built-in string class provides the ability to do complex variable
@@ -179,7 +179,7 @@ implementation as the built-in :meth:`format` method.
 
 .. _formatstrings:
 
-Format String Syntax
+格式化字符语法
 --------------------
 
 The :meth:`str.format` method and the :class:`Formatter` class share the same
@@ -627,7 +627,7 @@ Nesting arguments and more complex examples::
 
 .. _template-strings:
 
-Template strings
+模板字符
 ----------------
 
 Templates provide simpler string substitutions as described in :pep:`292`.
@@ -747,7 +747,7 @@ rule:
   delimiter), and it should appear last in the regular expression.
 
 
-Helper functions
+助手函数
 ----------------
 
 .. function:: capwords(s, sep=None)

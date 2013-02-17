@@ -4,7 +4,7 @@
 .. _countingrefs:
 
 ******************
-Reference Counting
+引用计数
 ******************
 
 The macros in this section are used for managing reference counts of Python

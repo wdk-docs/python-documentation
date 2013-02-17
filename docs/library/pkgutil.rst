@@ -1,4 +1,4 @@
-:mod:`pkgutil` --- Package extension utility
+:mod:`pkgutil` --- 包扩展实用程序
 ============================================
 
 .. module:: pkgutil

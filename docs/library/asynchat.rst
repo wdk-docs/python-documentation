@@ -1,4 +1,4 @@
-:mod:`asynchat` --- Asynchronous socket command/response handler
+:mod:`asynchat` --- 异步套接字命令/响应处理
 ================================================================
 
 .. module:: asynchat

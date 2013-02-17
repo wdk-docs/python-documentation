@@ -1,4 +1,4 @@
-:mod:`pickle` --- Python object serialization
+:mod:`pickle` --- Python对象序列化
 =============================================
 
 .. index::

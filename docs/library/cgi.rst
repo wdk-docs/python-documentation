@@ -1,4 +1,4 @@
-:mod:`cgi` --- Common Gateway Interface support
+:mod:`cgi` --- 支持公共网关接口
 ===============================================
 
 .. module:: cgi

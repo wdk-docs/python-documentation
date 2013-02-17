@@ -1,4 +1,4 @@
-:mod:`_thread` --- Low-level threading API
+:mod:`_thread` --- 低级别的线程API
 ==========================================
 
 .. module:: _thread

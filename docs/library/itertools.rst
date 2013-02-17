@@ -1,4 +1,4 @@
-:mod:`itertools` --- Functions creating iterators for efficient looping
+:mod:`itertools` --- 高效循环功能创建迭代器
 =======================================================================
 
 .. module:: itertools

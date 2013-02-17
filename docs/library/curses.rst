@@ -1,4 +1,4 @@
-:mod:`curses` --- Terminal handling for character-cell displays
+:mod:`curses` --- 字符单元格显示终端处理
 ===============================================================
 
 .. module:: curses

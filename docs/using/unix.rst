@@ -3,17 +3,17 @@
 .. _using-on-unix:
 
 ********************************
- Using Python on Unix platforms
+在Unix平台上使用Python
 ********************************
 
 .. sectionauthor:: Shriphani Palakodety
 
 
-Getting and installing the latest version of Python
+获取安装Python最新版本
 ===================================================
 
-On Linux
---------
+在Linux上
+-------------------
 
 Python comes preinstalled on most Linux distributions, and is available as a
 package on all others.  However there are certain features you might want to use
@@ -36,8 +36,8 @@ following links:
       for Slackware users
 
 
-On FreeBSD and OpenBSD
-----------------------
+在FreeBSD和OpenBSD上
+----------------------------
 
 * FreeBSD users, to add the package use::
 
@@ -52,15 +52,15 @@ On FreeBSD and OpenBSD
      pkg_add ftp://ftp.openbsd.org/pub/OpenBSD/4.2/packages/i386/python-2.5.1p2.tgz
 
 
-On OpenSolaris
---------------
+在OpenSolaris上
+-----------------------------
 
 To install the newest Python versions on OpenSolaris, install `blastwave
 <http://www.blastwave.org/howto.html>`_ and type ``pkg_get -i python`` at the
 prompt.
 
 
-Building Python
+构建Python
 ===============
 
 If you want to compile CPython yourself, first thing you should do is get the
@@ -86,7 +86,7 @@ source tree.
    since it only installs :file:`{exec_prefix}/bin/python{version}`.
 
 
-Python-related paths and files
+Python的相关路径和文件
 ==============================
 
 These are subject to difference depending on local installation conventions;
@@ -111,7 +111,7 @@ For example, on most Linux systems, the default for both is :file:`/usr`.
 +-----------------------------------------------+------------------------------------------+
 
 
-Miscellaneous
+杂项
 =============
 
 To easily use Python scripts on Unix, you need to make them executable,
@@ -131,7 +131,7 @@ some Unices may not have the :program:`env` command, so you may need to hardcode
 To use shell commands in your Python scripts, look at the :mod:`subprocess` module.
 
 
-Editors
+编辑器
 =======
 
 Vim and Emacs are excellent editors which support Python very well.  For more

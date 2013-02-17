@@ -1,4 +1,4 @@
-:mod:`resource` --- Resource usage information
+:mod:`resource` --- 资源的使用信息
 ==============================================
 
 .. module:: resource

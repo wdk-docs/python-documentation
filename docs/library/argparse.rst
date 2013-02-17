@@ -1,4 +1,4 @@
-:mod:`argparse` --- Parser for command-line options, arguments and sub-commands
+:mod:`argparse` --- 解析器的命令行选项，参数和子命令
 ===============================================================================
 
 .. module:: argparse

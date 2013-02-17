@@ -1,4 +1,4 @@
-:mod:`html` --- HyperText Markup Language support
+:mod:`html` --- 支持超文本标记语言
 =================================================
 
 .. module:: html

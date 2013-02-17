@@ -1,4 +1,4 @@
-:mod:`aifc` --- Read and write AIFF and AIFC files
+:mod:`aifc` --- 读写AIFF和AIFC文件
 ==================================================
 
 .. module:: aifc

@@ -1,7 +1,7 @@
 .. _profile:
 
 ********************
-The Python Profilers
+Python的廓线仪
 ********************
 
 .. sectionauthor:: James Roskind

@@ -2,7 +2,7 @@
 
 .. _bytearrayobjects:
 
-Byte Array Objects
+字节数组对象
 ------------------
 
 .. index:: object: bytearray

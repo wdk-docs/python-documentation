@@ -1,7 +1,7 @@
 :tocdepth: 2
 
 =========================
-Library and Extension FAQ
+库及扩展常见问题
 =========================
 
 .. contents::

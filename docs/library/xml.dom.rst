@@ -1,4 +1,4 @@
-:mod:`xml.dom` --- The Document Object Model API
+:mod:`xml.dom` --- 文档对象模型API
 ================================================
 
 .. module:: xml.dom

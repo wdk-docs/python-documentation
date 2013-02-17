@@ -1,7 +1,7 @@
 .. _urllib-howto:
 
 ***********************************************************
-  HOWTO Fetch Internet Resources Using The urllib Package
+  如何使用urllib包获取互联网资源
 ***********************************************************
 
 :Author: `Michael Foord <http://www.voidspace.org.uk/python/index.shtml>`_
@@ -14,7 +14,7 @@
 
 
 
-Introduction
+介绍
 ============
 
 .. sidebar:: Related Articles
@@ -47,7 +47,7 @@ with enough detail about HTTP to help you through. It is not intended to replace
 the :mod:`urllib.request` docs, but is supplementary to them.
 
 
-Fetching URLs
+获取 URLs
 =============
 
 The simplest way to use urllib.request is as follows::
@@ -93,8 +93,8 @@ extra information ("metadata") *about* the data or the about request itself, to
 the server - this information is sent as HTTP "headers".  Let's look at each of
 these in turn.
 
-Data
-----
+数据
+--------
 
 Sometimes you want to send data to a URL (often the URL will refer to a CGI
 (Common Gateway Interface) script [#]_ or other web application). With HTTP,
@@ -153,7 +153,7 @@ This is done as follows::
 Notice that the full URL is created by adding a ``?`` to the URL, followed by
 the encoded values.
 
-Headers
+头
 -------
 
 We'll discuss here one particular HTTP header, to illustrate how to add headers
@@ -190,7 +190,7 @@ The response also has two useful methods. See the section on `info and geturl`_
 which comes after we have a look at what happens when things go wrong.
 
 
-Handling Exceptions
+异常处理
 ===================
 
 *urlopen* raises :exc:`URLError` when it cannot handle a response (though as
@@ -334,7 +334,7 @@ geturl, and info, methods as returned by the ``urllib.response`` module::
       <title>Page Not Found</title>\n
       ...
 
-Wrapping it Up
+总结
 --------------
 
 So if you want to be prepared for :exc:`HTTPError` *or* :exc:`URLError` there are two

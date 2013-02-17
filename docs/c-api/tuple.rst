@@ -2,7 +2,7 @@
 
 .. _tupleobjects:
 
-Tuple Objects
+元组对象
 -------------
 
 .. index:: object: tuple

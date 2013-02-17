@@ -2,7 +2,7 @@
 
 .. _unicodeobjects:
 
-Unicode Objects and Codecs
+unicode对象和编解码器
 --------------------------
 
 .. sectionauthor:: Marc-André Lemburg <mal@lemburg.com>

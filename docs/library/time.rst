@@ -1,4 +1,4 @@
-:mod:`time` --- Time access and conversions
+:mod:`time` --- 时间的访问和转换
 ===========================================
 
 .. module:: time

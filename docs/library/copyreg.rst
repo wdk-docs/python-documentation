@@ -1,4 +1,4 @@
-:mod:`copyreg` --- Register :mod:`pickle` support functions
+:mod:`copyreg` --- 注册 :mod:`pickle` 支持函数
 ===========================================================
 
 .. module:: copyreg

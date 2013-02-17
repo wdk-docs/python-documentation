@@ -1,4 +1,4 @@
-:mod:`xml.sax.handler` --- Base classes for SAX handlers
+:mod:`xml.sax.handler` --- SAX处理程序的基类
 ========================================================
 
 .. module:: xml.sax.handler

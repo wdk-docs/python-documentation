@@ -2,7 +2,7 @@
 
 .. _cell-objects:
 
-Cell Objects
+单元格对象
 ------------
 
 "Cell" objects are used to implement variables referenced by multiple scopes.

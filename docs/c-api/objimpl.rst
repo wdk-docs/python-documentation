@@ -3,7 +3,7 @@
 .. _newtypes:
 
 *****************************
-Object Implementation Support
+支持对象实现
 *****************************
 
 This chapter describes the functions, types, and macros used when defining new

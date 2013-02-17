@@ -1,4 +1,4 @@
-:mod:`cmath` --- Mathematical functions for complex numbers
+:mod:`cmath` --- 数学函数复数
 ===========================================================
 
 .. module:: cmath

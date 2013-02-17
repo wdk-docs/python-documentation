@@ -1,4 +1,4 @@
-:mod:`tty` --- Terminal control functions
+:mod:`tty` --- 终端控制功能
 =========================================
 
 .. module:: tty

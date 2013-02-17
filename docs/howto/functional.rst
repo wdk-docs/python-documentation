@@ -1,5 +1,5 @@
 ********************************
-  Functional Programming HOWTO
+  函数式编程HOWTO
 ********************************
 
 :Author: A. M. Kuchling

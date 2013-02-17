@@ -1,4 +1,4 @@
-:mod:`fcntl` --- The :func:`fcntl` and :func:`ioctl` system calls
+:mod:`fcntl` --- :func:`fcntl` 和 :func:`ioctl` 系统调用
 =================================================================
 
 .. module:: fcntl

@@ -4,7 +4,7 @@
 .. _building:
 
 ********************************************
-Building C and C++ Extensions with distutils
+使用distutils创建C和C++扩展
 ********************************************
 
 .. sectionauthor:: Martin v. Löwis <martin@v.loewis.de>

@@ -1,7 +1,7 @@
 .. _ipaddress-howto:
 
 ***************************************
-An introduction to the ipaddress module
+IP地址模块介绍
 ***************************************
 
 :author: Peter Moody

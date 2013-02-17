@@ -1,4 +1,4 @@
-:mod:`collections` --- Container datatypes
+:mod:`collections` --- 集装箱数据类型
 ==========================================
 
 .. module:: collections

@@ -1,4 +1,4 @@
-:mod:`errno` --- Standard errno system symbols
+:mod:`errno` --- 标准的errno系统符号
 ==============================================
 
 .. module:: errno

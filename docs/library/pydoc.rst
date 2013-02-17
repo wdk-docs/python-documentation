@@ -1,4 +1,4 @@
-:mod:`pydoc` --- Documentation generator and online help system
+:mod:`pydoc` --- 文档生成器和在线帮助系统
 ===============================================================
 
 .. module:: pydoc

@@ -1,4 +1,4 @@
-:mod:`unicodedata` --- Unicode Database
+:mod:`unicodedata` --- Unicode数据库
 =======================================
 
 .. module:: unicodedata

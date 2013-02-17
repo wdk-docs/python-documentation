@@ -1,4 +1,4 @@
-:mod:`warnings` --- Warning control
+:mod:`warnings` --- 警告控制
 ===================================
 
 .. index:: single: warnings

@@ -1,4 +1,4 @@
-:mod:`email.policy`: Policy Objects
+:mod:`email.policy`: 策略对象
 -----------------------------------
 
 .. module:: email.policy

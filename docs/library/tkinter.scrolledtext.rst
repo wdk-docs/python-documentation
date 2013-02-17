@@ -1,4 +1,4 @@
-:mod:`tkinter.scrolledtext` --- Scrolled Text Widget
+:mod:`tkinter.scrolledtext` --- 滚动文字模组
 ====================================================
 
 .. module:: tkinter.scrolledtext

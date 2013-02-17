@@ -1,4 +1,4 @@
-:mod:`ftplib` --- FTP protocol client
+:mod:`ftplib` --- FTP协议的客户端
 =====================================
 
 .. module:: ftplib

@@ -1,4 +1,4 @@
-:mod:`html.parser` --- Simple HTML and XHTML parser
+:mod:`html.parser` --- 简单的HTML和XHTML解析器
 ===================================================
 
 .. module:: html.parser

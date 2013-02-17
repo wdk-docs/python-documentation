@@ -1,4 +1,4 @@
-:mod:`zipimport` --- Import modules from Zip archives
+:mod:`zipimport` --- 从ZIP压缩文件中导入模块
 =====================================================
 
 .. module:: zipimport

@@ -1,4 +1,4 @@
-:mod:`http.cookies` --- HTTP state management
+:mod:`http.cookies` --- HTTP状态管理
 =============================================
 
 .. module:: http.cookies

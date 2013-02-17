@@ -1,4 +1,4 @@
-:mod:`wave` --- Read and write WAV files
+:mod:`wave` ---读写WAV文件
 ========================================
 
 .. module:: wave

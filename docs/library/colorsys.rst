@@ -1,4 +1,4 @@
-:mod:`colorsys` --- Conversions between color systems
+:mod:`colorsys` --- 颜色系统之间的转换
 =====================================================
 
 .. module:: colorsys

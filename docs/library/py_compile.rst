@@ -1,4 +1,4 @@
-:mod:`py_compile` --- Compile Python source files
+:mod:`py_compile` --- 编译Python源文件
 =================================================
 
 .. module:: py_compile

@@ -1,4 +1,4 @@
-:mod:`linecache` --- Random access to text lines
+:mod:`linecache` --- 随机访问文本行
 ================================================
 
 .. module:: linecache

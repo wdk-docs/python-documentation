@@ -1,4 +1,4 @@
-:mod:`urllib` --- URL handling modules
+:mod:`urllib` --- URL处理模块
 ======================================
 
 ``urllib`` is a package that collects several modules for working with URLs:

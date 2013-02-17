@@ -1,4 +1,4 @@
-:mod:`random` --- Generate pseudo-random numbers
+:mod:`random` --- 生成的伪随机数
 ================================================
 
 .. module:: random

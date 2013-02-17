@@ -1,4 +1,4 @@
-:mod:`curses.ascii` --- Utilities for ASCII characters
+:mod:`curses.ascii` --- ASCII字符的操作工具
 ======================================================
 
 .. module:: curses.ascii

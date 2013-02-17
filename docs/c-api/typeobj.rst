@@ -2,7 +2,7 @@
 
 .. _type-structs:
 
-Type Objects
+类型对象
 ============
 
 Perhaps one of the most important structures of the Python object system is the

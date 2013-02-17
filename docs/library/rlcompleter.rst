@@ -1,4 +1,4 @@
-:mod:`rlcompleter` --- Completion function for GNU readline
+:mod:`rlcompleter` --- GNU readline 的Completion 函数
 ===========================================================
 
 .. module:: rlcompleter

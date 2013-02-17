@@ -1,4 +1,4 @@
-:mod:`urllib.parse` --- Parse URLs into components
+:mod:`urllib.parse` --- 解析URL转换成组件
 ==================================================
 
 .. module:: urllib.parse

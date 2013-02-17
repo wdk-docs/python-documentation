@@ -7,7 +7,7 @@
 
 .. _tut-os-interface:
 
-Operating System Interface
+操作系统接口
 ==========================
 
 The :mod:`os` module provides dozens of functions for interacting with the
@@ -45,7 +45,7 @@ a higher level interface that is easier to use::
 
 .. _tut-file-wildcards:
 
-File Wildcards
+文件通配符
 ==============
 
 The :mod:`glob` module provides a function for making file lists from directory
@@ -58,7 +58,7 @@ wildcard searches::
 
 .. _tut-command-line-arguments:
 
-Command Line Arguments
+命令行参数
 ======================
 
 Common utility scripts often need to process command line arguments. These
@@ -77,7 +77,7 @@ provided by the :mod:`argparse` module.
 
 .. _tut-stderr:
 
-Error Output Redirection and Program Termination
+错误输出重定向和程序终止
 ================================================
 
 The :mod:`sys` module also has attributes for *stdin*, *stdout*, and *stderr*.
@@ -92,7 +92,7 @@ The most direct way to terminate a script is to use ``sys.exit()``.
 
 .. _tut-string-pattern-matching:
 
-String Pattern Matching
+字符串模式匹配
 =======================
 
 The :mod:`re` module provides regular expression tools for advanced string
@@ -114,7 +114,7 @@ they are easier to read and debug::
 
 .. _tut-mathematics:
 
-Mathematics
+数学
 ===========
 
 The :mod:`math` module gives access to the underlying C library functions for
@@ -143,7 +143,7 @@ computations.
 
 .. _tut-internet-access:
 
-Internet Access
+互联网接入
 ===============
 
 There are a number of modules for accessing the internet and processing internet
@@ -173,7 +173,7 @@ from URLs and :mod:`smtplib` for sending mail::
 
 .. _tut-dates-and-times:
 
-Dates and Times
+日期和时间
 ===============
 
 The :mod:`datetime` module supplies classes for manipulating dates and times in
@@ -199,7 +199,7 @@ aware. ::
 
 .. _tut-data-compression:
 
-Data Compression
+数据压缩
 ================
 
 Common data archiving and compression formats are directly supported by modules
@@ -221,7 +221,7 @@ including: :mod:`zlib`, :mod:`gzip`, :mod:`bz2`, :mod:`lzma`, :mod:`zipfile` and
 
 .. _tut-performance-measurement:
 
-Performance Measurement
+绩效评估
 =======================
 
 Some Python users develop a deep interest in knowing the relative performance of
@@ -245,7 +245,7 @@ larger blocks of code.
 
 .. _tut-quality-control:
 
-Quality Control
+质量控制
 ===============
 
 One approach for developing high quality software is to write tests for each
@@ -289,7 +289,7 @@ file::
 
 .. _tut-batteries-included:
 
-Batteries Included
+标准配件
 ==================
 
 Python has a "batteries included" philosophy.  This is best seen through the

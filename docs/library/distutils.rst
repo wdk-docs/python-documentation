@@ -1,4 +1,4 @@
-:mod:`distutils` --- Building and installing Python modules
+:mod:`distutils` --- 构建和安装Python模块
 ===========================================================
 
 .. module:: distutils

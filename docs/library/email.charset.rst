@@ -1,4 +1,4 @@
-:mod:`email.charset`: Representing character sets
+:mod:`email.charset`: 代表字符集
 -------------------------------------------------
 
 .. module:: email.charset

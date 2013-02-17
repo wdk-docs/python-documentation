@@ -1,4 +1,4 @@
-:mod:`tabnanny` --- Detection of ambiguous indentation
+:mod:`tabnanny` --- 检测暧昧的缩进
 ======================================================
 
 .. module:: tabnanny

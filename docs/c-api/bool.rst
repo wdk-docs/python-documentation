@@ -2,7 +2,7 @@
 
 .. _boolobjects:
 
-Boolean Objects
+布尔对象
 ---------------
 
 Booleans in Python are implemented as a subclass of integers.  There are only

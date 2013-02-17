@@ -2,7 +2,7 @@
 
 .. _typeobjects:
 
-Type Objects
+类型对象
 ------------
 
 .. index:: object: type

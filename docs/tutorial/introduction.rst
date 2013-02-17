@@ -1,7 +1,7 @@
 ﻿.. _tut-informal:
 
 **********************************
-一个非正式的介绍Python
+一个非正式的Python介绍
 **********************************
 
 In the following examples, input and output are distinguished by the presence or
@@ -19,7 +19,7 @@ literal.  A hash character within a string literal is just a hash character.
 Since comments are to clarify code and are not interpreted by Python, they may
 be omitted when typing in examples.
 
-Some examples::
+一些例子::
 
    # this is the first comment
    SPAM = 1                 # and this is the second comment
@@ -29,7 +29,7 @@ Some examples::
 
 .. _tut-calculator:
 
-Using Python as a Calculator
+使用Python当作计算器
 ============================
 
 Let's try some simple Python commands.  Start the interpreter and wait for the
@@ -38,7 +38,7 @@ primary prompt, ``>>>``.  (It shouldn't take long.)
 
 .. _tut-numbers:
 
-Numbers
+数字
 -------
 
 The interpreter acts as a simple calculator: you can type an expression at it
@@ -170,7 +170,7 @@ same name masking the built-in variable with its magic behavior.
 
 .. _tut-strings:
 
-Strings
+字符
 -------
 
 Besides numbers, Python can also manipulate strings, which can be expressed in
@@ -409,7 +409,7 @@ The built-in function :func:`len` returns the length of a string::
 
 .. _tut-unicodestrings:
 
-About Unicode
+关于Unicode
 -------------
 
 .. sectionauthor:: Marc-André Lemburg <mal@lemburg.com>
@@ -454,7 +454,7 @@ name of the encoding.  Lowercase names for encodings are preferred. ::
 
 .. _tut-lists:
 
-Lists
+列表
 -----
 
 Python knows a number of *compound* data types, used to group together other
@@ -553,7 +553,7 @@ object!  We'll come back to *object semantics* later.
 
 .. _tut-firststeps:
 
-First Steps Towards Programming
+开始编程
 ===============================
 
 Of course, we can use Python for more complicated tasks than adding two and two

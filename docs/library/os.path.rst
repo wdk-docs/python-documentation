@@ -1,4 +1,4 @@
-:mod:`os.path` --- Common pathname manipulations
+:mod:`os.path` --- 常见的路径名操作
 ================================================
 
 .. module:: os.path

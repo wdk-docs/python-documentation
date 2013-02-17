@@ -1,4 +1,4 @@
-:mod:`tkinter` --- Python interface to Tcl/Tk
+:mod:`tkinter` --- Tcl / Tk的Python接口
 =============================================
 
 .. module:: tkinter

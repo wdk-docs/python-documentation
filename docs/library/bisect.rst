@@ -1,4 +1,4 @@
-:mod:`bisect` --- Array bisection algorithm
+:mod:`bisect` --- 阵列二分法
 ===========================================
 
 .. module:: bisect

@@ -1,6 +1,6 @@
 .. _email-examples:
 
-:mod:`email`: Examples
+:mod:`email`: 实例
 ----------------------
 
 Here are a few examples of how to use the :mod:`email` package to read, write,

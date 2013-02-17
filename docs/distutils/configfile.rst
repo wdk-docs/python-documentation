@@ -1,7 +1,7 @@
 .. _setup-config:
 
 ************************************
-Writing the Setup Configuration File
+编写安装程序配置文件
 ************************************
 
 Often, it's not possible to write down everything needed to build a distribution

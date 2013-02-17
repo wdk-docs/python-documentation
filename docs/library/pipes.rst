@@ -1,4 +1,4 @@
-:mod:`pipes` --- Interface to shell pipelines
+:mod:`pipes` --- 外壳管道接口
 =============================================
 
 .. module:: pipes

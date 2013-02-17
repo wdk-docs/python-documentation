@@ -1,5 +1,5 @@
 ======================
-Descriptor HowTo Guide
+描述符方法文档指南
 ======================
 
 :Author: Raymond Hettinger

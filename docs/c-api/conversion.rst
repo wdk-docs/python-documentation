@@ -2,7 +2,7 @@
 
 .. _string-conversion:
 
-String conversion and formatting
+串并转换格式
 ================================
 
 Functions for number conversion and formatted string output.

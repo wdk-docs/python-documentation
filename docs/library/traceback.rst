@@ -1,4 +1,4 @@
-:mod:`traceback` --- Print or retrieve a stack traceback
+:mod:`traceback` --- 打印或检索栈回溯
 ========================================================
 
 .. module:: traceback

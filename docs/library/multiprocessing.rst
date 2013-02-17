@@ -1,4 +1,4 @@
-:mod:`multiprocessing` --- Process-based parallelism
+:mod:`multiprocessing` --- 基于流程的并行
 ====================================================
 
 .. module:: multiprocessing

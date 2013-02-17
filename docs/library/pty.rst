@@ -1,4 +1,4 @@
-:mod:`pty` --- Pseudo-terminal utilities
+:mod:`pty` --- 伪终端事业
 ========================================
 
 .. module:: pty

@@ -2,7 +2,7 @@
 
 .. _importing:
 
-Importing Modules
+导入模块
 =================
 
 

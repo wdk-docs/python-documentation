@@ -1,4 +1,4 @@
-:mod:`textwrap` --- Text wrapping and filling
+:mod:`textwrap` --- 包装和填充的文本
 =============================================
 
 .. module:: textwrap

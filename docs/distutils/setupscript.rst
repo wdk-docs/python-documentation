@@ -1,7 +1,7 @@
 .. _setup-script:
 
 ************************
-Writing the Setup Script
+编写安装脚本
 ************************
 
 The setup script is the centre of all activity in building, distributing, and

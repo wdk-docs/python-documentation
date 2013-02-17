@@ -1,4 +1,4 @@
-:mod:`shlex` --- Simple lexical analysis
+:mod:`shlex` --- 简单的词法分析
 ========================================
 
 .. module:: shlex

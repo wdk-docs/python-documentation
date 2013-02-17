@@ -1,4 +1,4 @@
-:mod:`urllib.error` --- Exception classes raised by urllib.request
+:mod:`urllib.error` --- urllib.request提出的错误类
 ==================================================================
 
 .. module:: urllib.error

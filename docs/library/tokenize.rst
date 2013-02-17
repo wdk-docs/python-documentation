@@ -1,4 +1,4 @@
-:mod:`tokenize` --- Tokenizer for Python source
+:mod:`tokenize` --- 标记生成Python源
 ===============================================
 
 .. module:: tokenize

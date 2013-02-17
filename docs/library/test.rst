@@ -1,4 +1,4 @@
-:mod:`test` --- Regression tests package for Python
+:mod:`test` --- 为Python的回归测试套件
 ===================================================
 
 .. module:: test

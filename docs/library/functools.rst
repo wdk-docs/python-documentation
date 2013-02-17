@@ -1,4 +1,4 @@
-:mod:`functools` --- Higher-order functions and operations on callable objects
+:mod:`functools` --- 高阶的功能和操作上可调用的对象
 ==============================================================================
 
 .. module:: functools

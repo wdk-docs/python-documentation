@@ -4,7 +4,7 @@
 .. _defining-new-types:
 
 ******************
-Defining New Types
+定义新类型
 ******************
 
 .. sectionauthor:: Michael Hudson <mwh@python.net>

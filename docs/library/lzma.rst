@@ -1,4 +1,4 @@
-:mod:`lzma` --- Compression using the LZMA algorithm
+:mod:`lzma` --- 使用LZMA算法压缩
 ====================================================
 
 .. module:: lzma

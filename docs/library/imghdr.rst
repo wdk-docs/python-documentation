@@ -1,4 +1,4 @@
-:mod:`imghdr` --- Determine the type of an image
+:mod:`imghdr` --- 确定的图像类型
 ================================================
 
 .. module:: imghdr

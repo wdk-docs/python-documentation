@@ -1,4 +1,4 @@
-:mod:`binascii` --- Convert between binary and ASCII
+:mod:`binascii` --- 转换二进制和ASCII
 ====================================================
 
 .. module:: binascii

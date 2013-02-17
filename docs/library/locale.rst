@@ -1,4 +1,4 @@
-:mod:`locale` --- Internationalization services
+:mod:`locale` --- 国际化服务
 ===============================================
 
 .. module:: locale

@@ -1,4 +1,4 @@
-:mod:`crypt` --- Function to check Unix passwords
+:mod:`crypt` --- 函数来检查Unix密码
 =================================================
 
 .. module:: crypt

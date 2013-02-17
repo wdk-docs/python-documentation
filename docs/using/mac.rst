@@ -2,7 +2,7 @@
 .. _using-on-mac:
 
 ***************************
-Using Python on a Macintosh
+在Macintosh上使用Python
 ***************************
 
 :Author: Bob Savage <bobsavage@mac.com>
@@ -14,7 +14,7 @@ the IDE and the Package Manager that are worth pointing out.
 
 .. _getting-osx:
 
-Getting and Installing MacPython
+获取和安装MacPython
 ================================
 
 Mac OS X 10.5 comes with Python 2.5.1 pre-installed by Apple.  If you wish, you
@@ -51,7 +51,7 @@ If you are familiar with Python on other Unix platforms you should read the
 section on running Python scripts from the Unix shell.
 
 
-How to run a Python script
+如何运行Python脚本
 --------------------------
 
 Your best way to get started with Python on Mac OS X is through the IDLE
@@ -95,7 +95,7 @@ instead of :program:`python` to start such scripts.
 With Python 2.5, you can use either :program:`python` or :program:`pythonw`.
 
 
-Configuration
+配置
 -------------
 
 Python on OS X honors all standard Unix environment variables such as
@@ -183,7 +183,7 @@ OSA-enabled application (Script Editor, Mail, iTunes, etc.). PyOSA makes Python
 a full peer to AppleScript.
 
 
-Other Resources
+其他资源
 ===============
 
 The MacPython mailing list is an excellent support resource for Python users and

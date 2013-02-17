@@ -1,4 +1,4 @@
-:mod:`filecmp` --- File and Directory Comparisons
+:mod:`filecmp` --- 文件和目录比较
 =================================================
 
 .. module:: filecmp

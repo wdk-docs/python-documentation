@@ -1,6 +1,6 @@
 .. _debugger:
 
-:mod:`pdb` --- The Python Debugger
+:mod:`pdb` --- Python调试器
 ==================================
 
 .. module:: pdb

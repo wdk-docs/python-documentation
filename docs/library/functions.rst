@@ -1,7 +1,7 @@
 .. XXX document all delegations to __special__ methods
 .. _built-in-funcs:
 
-Built-in Functions
+内置函数
 ==================
 
 The Python interpreter has a number of functions and types built into it that

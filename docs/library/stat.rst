@@ -1,4 +1,4 @@
-:mod:`stat` --- Interpreting :func:`stat` results
+:mod:`stat` --- 解释 :func:`stat` 结果
 =================================================
 
 .. module:: stat

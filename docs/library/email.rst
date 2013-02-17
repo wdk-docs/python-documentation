@@ -1,4 +1,4 @@
-:mod:`email` --- An email and MIME handling package
+:mod:`email` --- 电子邮件和MIME处理包
 ===================================================
 
 .. module:: email

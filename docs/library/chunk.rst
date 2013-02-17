@@ -1,4 +1,4 @@
-:mod:`chunk` --- Read IFF chunked data
+:mod:`chunk` --- 读IFF分块数据
 ======================================
 
 .. module:: chunk

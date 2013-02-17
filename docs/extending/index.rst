@@ -1,7 +1,7 @@
 .. _extending-index:
 
 ##################################################
-  扩展和嵌入Python解释器
+扩展和嵌入Python解释器
 ##################################################
 
 This document describes how to write modules in C or C++ to extend the Python

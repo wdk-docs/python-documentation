@@ -2,7 +2,7 @@
 
 .. _slice-objects:
 
-Slice Objects
+切片对象
 -------------
 
 

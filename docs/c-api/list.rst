@@ -2,7 +2,7 @@
 
 .. _listobjects:
 
-List Objects
+List 对象
 ------------
 
 .. index:: object: list

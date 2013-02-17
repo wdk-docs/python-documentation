@@ -1,4 +1,4 @@
-:mod:`xmlrpc.server` --- Basic XML-RPC servers
+:mod:`xmlrpc.server` --- 基础XML-RPC服务器
 ==============================================
 
 .. module:: xmlrpc.server

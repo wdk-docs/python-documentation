@@ -1,4 +1,4 @@
-:mod:`html.entities` --- Definitions of HTML general entities
+:mod:`html.entities` --- HTML一般实体的定义
 =============================================================
 
 .. module:: html.entities

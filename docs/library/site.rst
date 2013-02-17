@@ -1,4 +1,4 @@
-:mod:`site` --- Site-specific configuration hook
+:mod:`site` --- 站点特定的配置挂钩
 ================================================
 
 .. module:: site

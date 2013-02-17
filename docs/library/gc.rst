@@ -1,4 +1,4 @@
-:mod:`gc` --- Garbage Collector interface
+:mod:`gc` --- 垃圾收集器接口
 =========================================
 
 .. module:: gc

@@ -1,4 +1,4 @@
-:mod:`bz2` --- Support for :program:`bzip2` compression
+:mod:`bz2` --- 支持 :program:`bzip2` 压缩
 =======================================================
 
 .. module:: bz2
@@ -24,7 +24,7 @@ The :mod:`bz2` module contains:
 All of the classes in this module may safely be accessed from multiple threads.
 
 
-(De)compression of files
+(解)压缩文件
 ------------------------
 
 .. function:: open(filename, mode='r', compresslevel=9, encoding=None, errors=None, newline=None)

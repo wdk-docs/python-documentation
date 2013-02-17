@@ -1,4 +1,4 @@
-:mod:`operator` --- Standard operators as functions
+:mod:`operator` --- 作为功能的标准运营
 ===================================================
 
 .. module:: operator

@@ -1,4 +1,4 @@
-:mod:`readline` --- GNU readline interface
+:mod:`readline` --- GNU readline 接口
 ==========================================
 
 .. module:: readline

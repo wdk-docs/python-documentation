@@ -1,4 +1,4 @@
-:mod:`inspect` --- Inspect live objects
+:mod:`inspect` --- 检查活动的对象
 =======================================
 
 .. module:: inspect

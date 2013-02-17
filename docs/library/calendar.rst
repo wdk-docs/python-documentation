@@ -1,4 +1,4 @@
-:mod:`calendar` --- General calendar-related functions
+:mod:`calendar` --- 一般的日历相关的功能
 ======================================================
 
 .. module:: calendar

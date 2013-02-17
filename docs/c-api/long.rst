@@ -2,7 +2,7 @@
 
 .. _longobjects:
 
-Integer Objects
+Integer 对象
 ---------------
 
 .. index:: object: long integer

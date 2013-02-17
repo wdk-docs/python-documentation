@@ -1,4 +1,4 @@
-:mod:`email.generator`: Generating MIME documents
+:mod:`email.generator`: 生成MIME文件
 -------------------------------------------------
 
 .. module:: email.generator

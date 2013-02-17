@@ -1,4 +1,4 @@
-:mod:`wsgiref` --- WSGI Utilities and Reference Implementation
+:mod:`wsgiref` --- WSGI实用工具和参考实现
 ==============================================================
 
 .. module:: wsgiref

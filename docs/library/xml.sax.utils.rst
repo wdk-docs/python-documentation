@@ -1,4 +1,4 @@
-:mod:`xml.sax.saxutils` --- SAX Utilities
+:mod:`xml.sax.saxutils` --- SAX实用工具
 =========================================
 
 .. module:: xml.sax.saxutils

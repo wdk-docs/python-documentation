@@ -1,4 +1,4 @@
-:mod:`symbol` --- Constants used with Python parse trees
+:mod:`symbol` --- 与Python的语法分析树使用的常量
 ========================================================
 
 .. module:: symbol

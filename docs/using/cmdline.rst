@@ -5,7 +5,7 @@
 
 .. _using-on-general:
 
-Command line and environment
+命令行和环境
 ============================
 
 The CPython interpreter scans the command line and the environment for various
@@ -19,7 +19,7 @@ settings.
 
 .. _using-on-cmdline:
 
-Command line
+命令行
 ------------
 
 When invoking Python, you may specify any of these options::
@@ -33,7 +33,7 @@ The most common use case is, of course, a simple invocation of a script::
 
 .. _using-on-interface-options:
 
-Interface options
+接口选项
 ~~~~~~~~~~~~~~~~~
 
 The interpreter interface resembles that of the UNIX shell, but provides some
@@ -152,7 +152,7 @@ start of :data:`sys.path`.
 .. seealso::  :ref:`tut-invoking`
 
 
-Generic options
+一般的选项
 ~~~~~~~~~~~~~~~
 
 .. cmdoption:: -?
@@ -170,7 +170,7 @@ Generic options
        Python 3.0
 
 
-Miscellaneous options
+杂项
 ~~~~~~~~~~~~~~~~~~~~~
 
 .. cmdoption:: -b
@@ -366,7 +366,7 @@ Miscellaneous options
       It is now allowed to pass :option:`-X` with CPython.
 
 
-Options you shouldn't use
+你不应该使用的选项
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. cmdoption:: -J
@@ -378,7 +378,7 @@ Options you shouldn't use
 
 .. _using-on-envvars:
 
-Environment variables
+环境变量
 ---------------------
 
 These environment variables influence Python's behavior, they are processed
@@ -560,7 +560,7 @@ conflict.
    option.
 
 
-Debug-mode variables
+调试模式变量
 ~~~~~~~~~~~~~~~~~~~~
 
 Setting these variables only has an effect in a debug build of Python, that is,

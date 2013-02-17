@@ -1,4 +1,4 @@
-:mod:`formatter` --- Generic output formatting
+:mod:`formatter` --- 通用输出格式
 ==============================================
 
 .. module:: formatter

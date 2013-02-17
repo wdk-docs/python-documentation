@@ -1,7 +1,7 @@
 .. _ipc:
 
 *****************************************
-Interprocess Communication and Networking
+进程间通信与网络
 *****************************************
 
 The modules described in this chapter provide mechanisms for different processes

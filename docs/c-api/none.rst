@@ -2,7 +2,7 @@
 
 .. _noneobject:
 
-The None Object
+“无”对象
 ---------------
 
 .. index:: object: None

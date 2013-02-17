@@ -1,4 +1,4 @@
-:mod:`smtplib` --- SMTP protocol client
+:mod:`smtplib` --- SMTP协议的客户端
 =======================================
 
 .. module:: smtplib

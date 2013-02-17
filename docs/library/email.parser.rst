@@ -1,4 +1,4 @@
-:mod:`email.parser`: Parsing email messages
+:mod:`email.parser`: 解析电子邮件信息
 -------------------------------------------
 
 .. module:: email.parser

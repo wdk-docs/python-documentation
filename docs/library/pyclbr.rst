@@ -1,4 +1,4 @@
-:mod:`pyclbr` --- Python class browser support
+:mod:`pyclbr` --- Python类的浏览器支持
 ==============================================
 
 .. module:: pyclbr

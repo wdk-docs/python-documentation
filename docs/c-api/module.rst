@@ -2,7 +2,7 @@
 
 .. _moduleobjects:
 
-Module Objects
+模块对象
 --------------
 
 .. index:: object: module

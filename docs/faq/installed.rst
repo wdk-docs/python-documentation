@@ -1,8 +1,8 @@
 =============================================
-"Why is Python Installed on my Computer?" FAQ
+"为什么我的电脑上安装了Python?" FAQ
 =============================================
 
-What is Python?
+什么是Python?
 ---------------
 
 Python is a programming language.  It's used for many different applications.
@@ -14,7 +14,7 @@ If you wish to learn more about Python, start with the `Beginner's Guide to
 Python <http://wiki.python.org/moin/BeginnersGuide>`_.
 
 
-Why is Python installed on my machine?
+为什么我的电脑上安装了Python?
 --------------------------------------
 
 If you find Python installed on your system but don't remember installing it,
@@ -34,7 +34,7 @@ there are several possible ways it could have gotten there.
   installation.
 
 
-Can I delete Python?
+我能删除Python?
 --------------------
 
 That depends on where Python came from.

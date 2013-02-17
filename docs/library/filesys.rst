@@ -1,7 +1,7 @@
 .. _filesys:
 
 *************************
-File and Directory Access
+文件和目录访问
 *************************
 
 The modules described in this chapter deal with disk files and directories.  For

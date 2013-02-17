@@ -1,4 +1,4 @@
-:mod:`http` --- HTTP modules
+:mod:`http` --- HTTP 模块
 ============================
 
 ``http`` is a package that collects several modules for working with the

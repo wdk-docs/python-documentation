@@ -1,4 +1,4 @@
-:mod:`hashlib` --- Secure hashes and message digests
+:mod:`hashlib` --- 安全哈希和消息摘要
 ====================================================
 
 .. module:: hashlib

@@ -1,6 +1,6 @@
 .. _built-in-consts:
 
-Built-in Constants
+内置常量
 ==================
 
 A small number of constants live in the built-in namespace.  They are:
@@ -50,7 +50,7 @@ A small number of constants live in the built-in namespace.  They are:
    :exc:`SyntaxError`), so they can be considered "true" constants.
 
 
-Constants added by the :mod:`site` module
+通过模块 :mod:`site` 添加常量
 -----------------------------------------
 
 The :mod:`site` module (which is imported automatically during startup, except

@@ -1,6 +1,6 @@
 .. _tools-and-scripts:
 
-Additional Tools and Scripts
+额外的工具和脚本
 ============================
 
 .. _scripts-pyvenv:

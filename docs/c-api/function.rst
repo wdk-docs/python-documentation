@@ -2,7 +2,7 @@
 
 .. _function-objects:
 
-Function Objects
+函数对象
 ----------------
 
 .. index:: object: function

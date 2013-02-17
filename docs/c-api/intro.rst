@@ -4,7 +4,7 @@
 .. _api-intro:
 
 ************
-Introduction
+介绍
 ************
 
 The Application Programmer's Interface to Python gives C and C++ programmers

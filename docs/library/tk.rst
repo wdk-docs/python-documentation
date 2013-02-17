@@ -1,7 +1,7 @@
 .. _tkinter:
 
 *********************************
-Graphical User Interfaces with Tk
+用Tk的图形用户界面
 *********************************
 
 .. index::

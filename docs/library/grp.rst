@@ -1,4 +1,4 @@
-:mod:`grp` --- The group database
+:mod:`grp` --- 本组资料库
 =================================
 
 .. module:: grp

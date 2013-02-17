@@ -30,7 +30,7 @@
 
 .. _inst-intro:
 
-Introduction
+介绍
 ============
 
 Although Python's extensive standard library covers many programming needs,
@@ -55,7 +55,7 @@ the :ref:`distutils-index` manual.
 
 .. _inst-trivial-install:
 
-Best case: trivial installation
+最好的情况：平凡的安装
 -------------------------------
 
 In the best case, someone will have prepared a special version of the module
@@ -83,7 +83,7 @@ modules from standard source distributions.
 
 .. _inst-new-standard:
 
-The new standard: Distutils
+新的标准: Distutils
 ---------------------------
 
 If you download a module source distribution, you can tell pretty quickly if it
@@ -113,7 +113,7 @@ get out of this manual.
 
 .. _inst-standard-install:
 
-Standard Build and Install
+标准的建立和安装
 ==========================
 
 As described in section :ref:`inst-new-standard`, building and installing a module
@@ -125,7 +125,7 @@ terminal::
 
 .. _inst-platform-variations:
 
-Platform variations
+平台间的变化
 -------------------
 
 You should always run the setup command from the distribution root directory,
@@ -150,7 +150,7 @@ command prompt window and run::
 
 .. _inst-splitting-up:
 
-Splitting the job up
+拆分工作起来
 --------------------
 
 Running ``setup.py install`` builds and installs all modules in one run.  If you
@@ -219,7 +219,7 @@ of installing Python modules and applications.
 
 .. _inst-how-install-works:
 
-How installation works
+如何安装工程
 ----------------------
 
 After the :command:`build` command runs (whether you run it explicitly, or the
@@ -294,7 +294,7 @@ custom installations.
 
 .. _inst-alt-install:
 
-Alternate Installation
+其他安装
 ======================
 
 Often, it is necessary or desirable to install modules to a location other than
@@ -321,7 +321,7 @@ groups.
 
 .. _inst-alt-install-user:
 
-Alternate installation: the user scheme
+备用安装：用户计划
 ---------------------------------------
 
 This scheme is designed to be the most convenient solution for users that don't
@@ -369,7 +369,7 @@ the runtime search path for shared C libraries (rpath).
 
 .. _inst-alt-install-home:
 
-Alternate installation: the home scheme
+备用安装：家庭计划
 ---------------------------------------
 
 The idea behind the "home scheme" is that you build and maintain a personal
@@ -411,7 +411,7 @@ C headers       :file:`{home}/include/python/{distname}`
 
 .. _inst-alt-install-prefix-unix:
 
-Alternate installation: Unix (the prefix scheme)
+备用安装UNIX（前缀方案）
 ------------------------------------------------
 
 The "prefix scheme" is useful when you wish to use one Python installation to
@@ -481,7 +481,7 @@ alternate Python installation, this is immaterial.)
 
 .. _inst-alt-install-prefix-windows:
 
-Alternate installation: Windows (the prefix scheme)
+备用安装：Windows（前缀方案）
 ---------------------------------------------------
 
 Windows has no concept of a user's home directory, and since the standard Python
@@ -510,7 +510,7 @@ C headers       :file:`{prefix}\\Include\\{distname}`
 
 .. _inst-custom-install:
 
-Custom Installation
+自定义安装
 ===================
 
 Sometimes, the alternate installation schemes described in section
@@ -726,7 +726,7 @@ can modify it by adding or removing entries.
 
 .. _inst-config-files:
 
-Distutils Configuration Files
+Distutils的配置文件
 =============================
 
 As mentioned above, you can use Distutils configuration files to record personal
@@ -741,7 +741,7 @@ by "later" files.
 
 .. _inst-config-filenames:
 
-Location and names of config files
+配置文件的位置和名称
 ----------------------------------
 
 The names and locations of the configuration files vary slightly across
@@ -809,7 +809,7 @@ Notes:
 
 .. _inst-config-syntax:
 
-Syntax of config files
+配置文件的语法
 ----------------------
 
 The Distutils configuration files all have the same syntax.  The config files
@@ -863,7 +863,7 @@ See also the "Reference" section of the "Distributing Python Modules" manual.
 
 .. _inst-building-ext:
 
-Building Extensions: Tips and Tricks
+构建扩展：提示与技巧
 ====================================
 
 Whenever possible, the Distutils try to use the configuration information made
@@ -876,7 +876,7 @@ to override the usual Distutils behaviour.
 
 .. _inst-tweak-flags:
 
-Tweaking compiler/linker flags
+调整的编译器/链接器标志
 ------------------------------
 
 Compiling a Python extension written in C or C++ will sometimes require
@@ -946,7 +946,7 @@ the compiler flags specified in the  :file:`Setup` file.
 
 .. _inst-non-ms-compilers:
 
-Using non-Microsoft compilers on Windows
+在Windows中使用非微软的编译器
 ----------------------------------------
 
 .. sectionauthor:: Rene Liebscher <R.Liebscher@gmx.de>
@@ -1029,7 +1029,7 @@ If you want to use any of these options/compilers as default, you should
 consider writing it in your personal or system-wide configuration file for
 Distutils (see section :ref:`inst-config-files`.)
 
-Older Versions of Python and MinGW
+旧版本的Python和MinGW
 """"""""""""""""""""""""""""""""""
 The following instructions only apply if you're using a version of Python
 inferior to 2.4.1 with a MinGW inferior to 3.0.0 (with

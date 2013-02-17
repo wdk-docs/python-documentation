@@ -1,4 +1,4 @@
-:mod:`socket` --- Low-level networking interface
+:mod:`socket` --- 低层次的网络接口
 ================================================
 
 .. module:: socket

@@ -1,4 +1,4 @@
-:mod:`quopri` --- Encode and decode MIME quoted-printable data
+:mod:`quopri` --- 使用quoted-printable编码和解码MIME数据
 ==============================================================
 
 .. module:: quopri

@@ -1,4 +1,4 @@
-:mod:`__future__` --- Future statement definitions
+:mod:`__future__` --- 未来的语句定义
 ==================================================
 
 .. module:: __future__

@@ -1,4 +1,4 @@
-:mod:`zipfile` --- Work with ZIP archives
+:mod:`zipfile` --- 与ZIP档案工作
 =========================================
 
 .. module:: zipfile

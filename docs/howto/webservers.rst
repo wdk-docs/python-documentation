@@ -1,5 +1,5 @@
 *******************************
-  HOWTO Use Python in the web
+  如何在Web上使用Python
 *******************************
 
 :Author: Marek Kubica

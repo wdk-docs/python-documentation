@@ -1,4 +1,4 @@
-:mod:`fpectl` --- Floating point exception control
+:mod:`fpectl` --- 浮点异常控制
 ==================================================
 
 .. module:: fpectl

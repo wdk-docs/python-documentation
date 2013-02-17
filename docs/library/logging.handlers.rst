@@ -1,4 +1,4 @@
-:mod:`logging.handlers` --- Logging handlers
+:mod:`logging.handlers` --- 记录处理程序
 ============================================
 
 .. module:: logging.handlers

@@ -1,4 +1,4 @@
-:mod:`mmap` --- Memory-mapped file support
+:mod:`mmap` --- 内存映射文件的支持
 ==========================================
 
 .. module:: mmap

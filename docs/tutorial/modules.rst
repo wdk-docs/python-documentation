@@ -67,7 +67,7 @@ If you intend to use a function often you can assign it to a local name::
 
 .. _tut-moremodules:
 
-More on Modules
+更多关于模块
 ===============
 
 A module can contain executable statements as well as function definitions.
@@ -121,7 +121,7 @@ use it to save typing in interactive sessions.
 
 .. _tut-modulesasscripts:
 
-Executing modules as scripts
+执行脚本模块
 ----------------------------
 
 When you run a Python module with ::
@@ -154,7 +154,7 @@ for testing purposes (running the module as a script executes a test suite).
 
 .. _tut-searchpath:
 
-The Module Search Path
+模块搜索路径
 ----------------------
 
 .. index:: triple: module; search; path
@@ -179,7 +179,7 @@ directory. This is an error unless the replacement is intended.  See section
 .. %
     Do we need stuff on zip files etc. ? DUBOIS
 
-"Compiled" Python files
+"编译" Python文件
 -----------------------
 
 As an important speed-up of the start-up time for short programs that use a lot
@@ -237,7 +237,7 @@ Some tips for experts:
 
 .. _tut-standardmodules:
 
-Standard Modules
+标准模块
 ================
 
 .. index:: module: sys
@@ -279,7 +279,7 @@ operations::
 
 .. _tut-dir:
 
-The :func:`dir` Function
+:func:`dir` 函数
 ========================
 
 The built-in function :func:`dir` is used to find out which names a module
@@ -357,7 +357,7 @@ want a list of those, they are defined in the standard module
 
 .. _tut-packages:
 
-Packages
+套件
 ========
 
 Packages are a way of structuring Python's module namespace by using "dotted
@@ -456,7 +456,7 @@ item.
 
 .. _tut-pkg-import-star:
 
-Importing \* From a Package
+从包中导入\ *
 ---------------------------
 
 .. index:: single: __all__
@@ -510,7 +510,7 @@ importing module needs to use submodules with the same name from different
 packages.
 
 
-Intra-package References
+包内引用
 ------------------------
 
 When packages are structured into subpackages (as with the :mod:`sound` package
@@ -533,7 +533,7 @@ the name of the main module is always ``"__main__"``, modules intended for use
 as the main module of a Python application must always use absolute imports.
 
 
-Packages in Multiple Directories
+在多个目录中的软件包
 --------------------------------
 
 Packages support one more special attribute, :attr:`__path__`.  This is

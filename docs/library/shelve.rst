@@ -1,4 +1,4 @@
-:mod:`shelve` --- Python object persistence
+:mod:`shelve` --- Python对象持久性
 ===========================================
 
 .. module:: shelve

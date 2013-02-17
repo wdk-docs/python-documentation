@@ -1,4 +1,4 @@
-:mod:`re` --- Regular expression operations
+:mod:`re` --- 正则表达式操作
 ===========================================
 
 .. module:: re
@@ -48,7 +48,7 @@ fine-tuning parameters.
 
 .. _re-syntax:
 
-Regular Expression Syntax
+正则表达式语法
 -------------------------
 
 A regular expression (or RE) specifies a set of strings that matches it; the
@@ -435,7 +435,7 @@ three digits in length.
 
 .. _contents-of-module-re:
 
-Module Contents
+模块内容
 ---------------
 
 The module defines several functions, constants, and an exception. Some of the
@@ -714,7 +714,7 @@ form.
 
 .. _re-objects:
 
-Regular Expression Objects
+正则表达式对象
 --------------------------
 
 Compiled regular expression objects support the following methods and
@@ -821,7 +821,7 @@ attributes:
 
 .. _match-objects:
 
-Match Objects
+匹配对象
 -------------
 
 Match objects always have a boolean value of ``True``.
@@ -1004,7 +1004,7 @@ Match objects support the following methods and attributes:
 
 .. _re-examples:
 
-Regular Expression Examples
+正则表达式示例
 ---------------------------
 
 
@@ -1065,7 +1065,7 @@ To find out what card the pair consists of, one could use the
    'a'
 
 
-Simulating scanf()
+模拟 scanf()
 ^^^^^^^^^^^^^^^^^^
 
 .. index:: single: scanf()
@@ -1146,7 +1146,7 @@ beginning with ``'^'`` will match at the beginning of each line.
    <_sre.SRE_Match object at ...>
 
 
-Making a Phonebook
+制作电话簿
 ^^^^^^^^^^^^^^^^^^
 
 :func:`split` splits a string into a list delimited by the passed pattern.  The
@@ -1224,7 +1224,7 @@ in each word of a sentence except for the first and last characters::
    'Pofsroser Aodlambelk, plasee reoprt yuor asnebces potlmrpy.'
 
 
-Finding all Adverbs
+查找所有副词
 ^^^^^^^^^^^^^^^^^^^
 
 :func:`findall` matches *all* occurrences of a pattern, not just the first
@@ -1237,7 +1237,7 @@ the following manner:
    ['carefully', 'quickly']
 
 
-Finding all Adverbs and their Positions
+查找所有副词和他们的位置
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 If one wants more information about all matches of a pattern than the matched
@@ -1253,7 +1253,7 @@ some text, he or she would use :func:`finditer` in the following manner:
    40-47: quickly
 
 
-Raw String Notation
+raw字符串表示
 ^^^^^^^^^^^^^^^^^^^
 
 Raw string notation (``r"text"``) keeps regular expressions sane.  Without it,
@@ -1277,7 +1277,7 @@ functionally identical:
    <_sre.SRE_Match object at ...>
 
 
-Writing a Tokenizer
+编写一个tokenizer
 ^^^^^^^^^^^^^^^^^^^
 
 A `tokenizer or scanner <http://en.wikipedia.org/wiki/Lexical_analysis>`_

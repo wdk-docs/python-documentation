@@ -2,7 +2,7 @@
 
 .. _gen-objects:
 
-Generator Objects
+生成器对象
 -----------------
 
 Generator objects are what Python uses to implement generator iterators. They

@@ -2,7 +2,7 @@
 
 .. _descriptor-objects:
 
-Descriptor Objects
+描述符对象
 ------------------
 
 "Descriptors" are objects that describe some attribute of an object. They are

@@ -2,7 +2,7 @@
 
 .. _allocating-objects:
 
-Allocating Objects on the Heap
+分配对象的堆
 ==============================
 
 

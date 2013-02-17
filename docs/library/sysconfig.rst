@@ -1,4 +1,4 @@
-:mod:`sysconfig` --- Provide access to Python's configuration information
+:mod:`sysconfig` --- 提供访问Python的配置信息
 =========================================================================
 
 .. module:: sysconfig

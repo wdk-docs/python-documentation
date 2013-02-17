@@ -2,7 +2,7 @@
 .. _numeric:
 
 ********************************
-Numeric and Mathematical Modules
+数字和数学模块
 ********************************
 
 The modules described in this chapter provide numeric and math-related functions

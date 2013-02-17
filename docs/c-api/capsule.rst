@@ -2,7 +2,7 @@
 
 .. _capsules:
 
-Capsules
+胶囊
 --------
 
 .. index:: object: Capsule

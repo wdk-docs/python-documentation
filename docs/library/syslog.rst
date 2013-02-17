@@ -1,4 +1,4 @@
-:mod:`syslog` --- Unix syslog library routines
+:mod:`syslog` --- UNIX系统库例程
 ==============================================
 
 .. module:: syslog

@@ -1,4 +1,4 @@
-:mod:`ssl` --- TLS/SSL wrapper for socket objects
+:mod:`ssl` --- TLS / SSL封装socket对象
 =================================================
 
 .. module:: ssl

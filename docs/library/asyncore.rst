@@ -1,4 +1,4 @@
-:mod:`asyncore` --- Asynchronous socket handler
+:mod:`asyncore` --- 异步套接字处理程序
 ===============================================
 
 .. module:: asyncore

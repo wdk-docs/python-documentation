@@ -1,4 +1,4 @@
-:mod:`unittest` --- Unit testing framework
+:mod:`unittest` --- 单元测试框架
 ==========================================
 
 .. module:: unittest

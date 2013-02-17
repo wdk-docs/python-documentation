@@ -1,7 +1,7 @@
 .. _persistence:
 
 ****************
-Data Persistence
+数据持久化
 ****************
 
 The modules described in this chapter support storing Python data in a

@@ -1,4 +1,4 @@
-:mod:`venv` --- Creation of virtual environments
+:mod:`venv` --- 创建虚拟环境
 ================================================
 
 .. module:: venv

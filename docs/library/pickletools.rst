@@ -1,4 +1,4 @@
-:mod:`pickletools` --- Tools for pickle developers
+:mod:`pickletools` --- 泡菜开发商的工具
 ==================================================
 
 .. module:: pickletools

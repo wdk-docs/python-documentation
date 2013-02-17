@@ -1,4 +1,4 @@
-:mod:`cgitb` --- Traceback manager for CGI scripts
+:mod:`cgitb` --- 回溯管理CGI脚本
 ==================================================
 
 .. module:: cgitb

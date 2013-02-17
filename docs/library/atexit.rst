@@ -1,4 +1,4 @@
-:mod:`atexit` --- Exit handlers
+:mod:`atexit` --- 退出处理程序
 ===============================
 
 .. module:: atexit

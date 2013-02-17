@@ -1,4 +1,4 @@
-:mod:`codeop` --- Compile Python code
+:mod:`codeop` --- 编译Python代码
 =====================================
 
 .. module:: codeop

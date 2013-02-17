@@ -1,4 +1,4 @@
-:mod:`email.headerregistry`: Custom Header Objects
+:mod:`email.headerregistry`: 自定义页眉对象
 --------------------------------------------------
 
 .. module:: email.headerregistry

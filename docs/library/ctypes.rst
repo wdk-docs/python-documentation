@@ -1,4 +1,4 @@
-:mod:`ctypes` --- A foreign function library for Python
+:mod:`ctypes` --- Python外部函数库
 =======================================================
 
 .. module:: ctypes

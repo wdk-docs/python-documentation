@@ -2,7 +2,7 @@
 
 .. _dictobjects:
 
-Dictionary Objects
+Dictionary对象
 ------------------
 
 .. index:: object: dictionary

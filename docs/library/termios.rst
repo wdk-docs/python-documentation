@@ -1,4 +1,4 @@
-:mod:`termios` --- POSIX style tty control
+:mod:`termios` --- POSIX风格的tty控制
 ==========================================
 
 .. module:: termios

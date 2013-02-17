@@ -1,4 +1,4 @@
-:mod:`sndhdr` --- Determine type of sound file
+:mod:`sndhdr` --- 确定类型的声音文件
 ==============================================
 
 .. module:: sndhdr

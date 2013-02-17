@@ -1,4 +1,4 @@
-:mod:`compileall` --- Byte-compile Python libraries
+:mod:`compileall` --- 字节编译Python库
 ===================================================
 
 .. module:: compileall

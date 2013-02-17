@@ -1,4 +1,4 @@
-:mod:`msvcrt` -- Useful routines from the MS VC++ runtime
+:mod:`msvcrt` -- 有用的MS VC++运行时例程
 =========================================================
 
 .. module:: msvcrt

@@ -2,7 +2,7 @@
 
 .. _bytesobjects:
 
-Bytes Objects
+字节对象
 -------------
 
 These functions raise :exc:`TypeError` when expecting a bytes parameter and are

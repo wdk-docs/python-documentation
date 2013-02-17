@@ -1,7 +1,7 @@
 .. _custominterp:
 
 **************************
-Custom Python Interpreters
+自定义Python解释器
 **************************
 
 The modules described in this chapter allow writing interfaces similar to

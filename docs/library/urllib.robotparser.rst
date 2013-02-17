@@ -1,4 +1,4 @@
-:mod:`urllib.robotparser` ---  Parser for robots.txt
+:mod:`urllib.robotparser` ---  robots.txt的解析器
 ====================================================
 
 .. module:: urllib.robotparser

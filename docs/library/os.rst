@@ -1,4 +1,4 @@
-:mod:`os` --- Miscellaneous operating system interfaces
+:mod:`os` --- 其它操作系统界面
 =======================================================
 
 .. module:: os

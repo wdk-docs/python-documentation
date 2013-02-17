@@ -2,7 +2,7 @@
 
 .. _reflection:
 
-Reflection
+反射
 ==========
 
 .. c:function:: PyObject* PyEval_GetBuiltins()

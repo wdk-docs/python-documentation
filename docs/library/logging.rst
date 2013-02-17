@@ -1,4 +1,4 @@
-:mod:`logging` --- Logging facility for Python
+:mod:`logging` --- 为Python的日志记录功能
 ==============================================
 
 .. module:: logging

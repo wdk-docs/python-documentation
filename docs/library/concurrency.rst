@@ -1,7 +1,7 @@
 .. _concurrency:
 
 ********************
-Concurrent Execution
+并发执行
 ********************
 
 The modules described in this chapter provide support for concurrent

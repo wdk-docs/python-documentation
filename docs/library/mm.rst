@@ -1,7 +1,7 @@
 .. _mmedia:
 
 *******************
-Multimedia Services
+多媒体服务
 *******************
 
 The modules described in this chapter implement various algorithms or interfaces

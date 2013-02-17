@@ -1,4 +1,4 @@
-:mod:`shutil` --- High-level file operations
+:mod:`shutil` --- 高级别文件操作
 ============================================
 
 .. module:: shutil

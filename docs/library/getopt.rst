@@ -1,4 +1,4 @@
-:mod:`getopt` --- C-style parser for command line options
+:mod:`getopt` --- C-风格的解析器的命令行选项
 =========================================================
 
 .. module:: getopt

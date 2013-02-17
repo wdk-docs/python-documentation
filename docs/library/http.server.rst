@@ -1,4 +1,4 @@
-:mod:`http.server` --- HTTP servers
+:mod:`http.server` --- HTTP 服务器
 ===================================
 
 .. module:: http.server

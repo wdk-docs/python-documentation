@@ -1,4 +1,4 @@
-:mod:`parser` --- Access Python parse trees
+:mod:`parser` --- 访问Python的语法分析树
 ===========================================
 
 .. module:: parser

@@ -1,4 +1,4 @@
-:mod:`xml.dom.pulldom` --- Support for building partial DOM trees
+:mod:`xml.dom.pulldom` --- 支持建设部分DOM树
 =================================================================
 
 .. module:: xml.dom.pulldom

@@ -1,4 +1,4 @@
-:mod:`smtpd` --- SMTP Server
+:mod:`smtpd` --- SMTP 服务器
 ============================
 
 .. module:: smtpd

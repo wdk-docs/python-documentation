@@ -1,4 +1,4 @@
-:mod:`xml.sax` --- Support for SAX2 parsers
+:mod:`xml.sax` --- 支持SAX2解析器
 ===========================================
 
 .. module:: xml.sax

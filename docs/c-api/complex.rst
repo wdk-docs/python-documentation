@@ -2,7 +2,7 @@
 
 .. _complexobjects:
 
-Complex Number Objects
+复数对象
 ----------------------
 
 .. index:: object: complex number

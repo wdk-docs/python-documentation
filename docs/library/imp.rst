@@ -1,4 +1,4 @@
-:mod:`imp` --- Access the :keyword:`import` internals
+:mod:`imp` --- 访问 :keyword:`import` 内部
 =====================================================
 
 .. module:: imp

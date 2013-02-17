@@ -1,4 +1,4 @@
-:mod:`email.iterators`: Iterators
+:mod:`email.iterators`: 迭代器
 ---------------------------------
 
 .. module:: email.iterators

@@ -1,7 +1,7 @@
 .. _datatypes:
 
 **********
-Data Types
+数据类型
 **********
 
 The modules described in this chapter provide a variety of specialized data

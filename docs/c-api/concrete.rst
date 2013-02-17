@@ -4,7 +4,7 @@
 .. _concrete:
 
 **********************
-Concrete Objects Layer
+具体对象层
 **********************
 
 The functions in this chapter are specific to certain Python object types.

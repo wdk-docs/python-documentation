@@ -1,4 +1,4 @@
-:mod:`tkinter.tix` --- Extension widgets for Tk
+:mod:`tkinter.tix` --- Tk扩展小工具
 ===============================================
 
 .. module:: tkinter.tix

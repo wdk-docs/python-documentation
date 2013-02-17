@@ -1,4 +1,4 @@
-:mod:`fractions` --- Rational numbers
+:mod:`fractions` --- 有理数
 =====================================
 
 .. module:: fractions

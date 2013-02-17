@@ -2,7 +2,7 @@
 
 .. _iterator-objects:
 
-Iterator Objects
+迭代器对象
 ----------------
 
 Python provides two general-purpose iterator objects.  The first, a sequence

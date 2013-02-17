@@ -2,7 +2,7 @@
 
 .. _setobjects:
 
-Set Objects
+设置对象
 -----------
 
 .. sectionauthor:: Raymond D. Hettinger <python@rcn.com>

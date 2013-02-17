@@ -1,4 +1,4 @@
-:mod:`datetime` --- Basic date and time types
+:mod:`datetime` --- 基本的日期和时间类型
 =============================================
 
 .. module:: datetime

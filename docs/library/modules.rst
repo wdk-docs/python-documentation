@@ -1,7 +1,7 @@
 .. _modules:
 
 *****************
-Importing Modules
+导入模块
 *****************
 
 The modules described in this chapter provide new ways to import other Python

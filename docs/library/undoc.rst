@@ -1,7 +1,7 @@
 .. _undoc:
 
 ********************
-Undocumented Modules
+无证模块
 ********************
 
 Here's a quick listing of modules that are currently undocumented, but that
@@ -13,7 +13,7 @@ Fredrik Lundh; the specific contents of this chapter have been substantially
 revised.
 
 
-Platform specific modules
+特定于平台的模块
 =========================
 
 These modules are used to implement the :mod:`os.path` module, and are not

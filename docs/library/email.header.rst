@@ -1,4 +1,4 @@
-:mod:`email.header`: Internationalized headers
+:mod:`email.header`: 国际化头
 ----------------------------------------------
 
 .. module:: email.header

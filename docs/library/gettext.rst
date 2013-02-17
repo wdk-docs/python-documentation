@@ -1,4 +1,4 @@
-:mod:`gettext` --- Multilingual internationalization services
+:mod:`gettext` --- 多语言国际化服务
 =============================================================
 
 .. module:: gettext

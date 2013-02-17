@@ -4,7 +4,7 @@
 .. _exceptionhandling:
 
 ******************
-Exception Handling
+异常处理
 ******************
 
 The functions described in this chapter will let you handle and raise Python

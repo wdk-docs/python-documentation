@@ -10,7 +10,7 @@ control flow statements known from other languages, with some twists.
 
 .. _tut-if:
 
-:keyword:`if` Statements
+:keyword:`if` 语句
 ========================
 
 Perhaps the most well-known statement type is the :keyword:`if` statement.  For
@@ -39,7 +39,7 @@ to avoid excessive indentation.  An  :keyword:`if` ... :keyword:`elif` ...
 
 .. _tut-for:
 
-:keyword:`for` Statements
+:keyword:`for` 语句
 =========================
 
 .. index::
@@ -81,7 +81,7 @@ slice notation makes this especially convenient::
 
 .. _tut-range:
 
-The :func:`range` Function
+:func:`range` 函数
 ==========================
 
 If you do need to iterate over a sequence of numbers, the built-in function
@@ -151,7 +151,7 @@ Later we will see more functions that return iterables and take iterables as arg
 
 .. _tut-break:
 
-:keyword:`break` and :keyword:`continue` Statements, and :keyword:`else` Clauses on Loops
+:keyword:`break` 和 :keyword:`continue` 语句, 和 :keyword:`else` 字句循环
 =========================================================================================
 
 The :keyword:`break` statement, like in C, breaks out of the smallest enclosing
@@ -210,7 +210,7 @@ iteration of the loop::
 
 .. _tut-pass:
 
-:keyword:`pass` Statements
+:keyword:`pass` 语句
 ==========================
 
 The :keyword:`pass` statement does nothing. It can be used when a statement is
@@ -236,7 +236,7 @@ at a more abstract level.  The :keyword:`pass` is silently ignored::
 
 .. _tut-functions:
 
-Defining Functions
+定义函数
 ==================
 
 We can create a function that writes the Fibonacci series to an arbitrary
@@ -345,7 +345,7 @@ This example, as usual, demonstrates some new Python features:
 
 .. _tut-defining:
 
-More on Defining Functions
+深入函数定义
 ==========================
 
 It is also possible to define functions with a variable number of arguments.
@@ -429,7 +429,7 @@ write the function like this instead::
 
 .. _tut-keywordargs:
 
-Keyword Arguments
+关键字参数
 -----------------
 
 Functions can also be called using :term:`keyword arguments <keyword argument>`
@@ -518,7 +518,7 @@ if this is not done, the order in which the arguments are printed is undefined.
 
 .. _tut-arbitraryargs:
 
-Arbitrary Argument Lists
+可变参数表
 ------------------------
 
 .. index::
@@ -549,7 +549,7 @@ keywords rather than positional arguments. ::
 
 .. _tut-unpacking-arguments:
 
-Unpacking Argument Lists
+参数列表的分拆
 ------------------------
 
 The reverse situation occurs when the arguments are already in a list or tuple
@@ -583,7 +583,7 @@ In the same fashion, dictionaries can deliver keyword arguments with the ``**``\
 
 .. _tut-lambda:
 
-Lambda Forms
+Lambda形式
 ------------
 
 By popular demand, a few features commonly found in functional programming
@@ -607,7 +607,7 @@ reference variables from the containing scope::
 
 .. _tut-docstrings:
 
-Documentation Strings
+文档字符串
 ---------------------
 
 .. index::
@@ -658,7 +658,7 @@ Here is an example of a multi-line docstring::
 
 .. _tut-annotations:
 
-Function Annotations
+函数注释
 --------------------
 
 .. sectionauthor:: Zachary Ware <zachary.ware@gmail.com>
@@ -692,7 +692,7 @@ value annotated with nonsense::
 
 .. _tut-codingstyle:
 
-Intermezzo: Coding Style
+间奏曲：编码风格
 ========================
 
 .. sectionauthor:: Georg Brandl <georg@python.org>

@@ -1,4 +1,4 @@
-:mod:`struct` --- Interpret bytes as packed binary data
+:mod:`struct` --- 解释字节的二进制数据
 =======================================================
 
 .. module:: struct

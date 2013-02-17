@@ -1,4 +1,4 @@
-:mod:`hmac` --- Keyed-Hashing for Message Authentication
+:mod:`hmac` --- 键控 - 散列的消息认证
 ========================================================
 
 .. module:: hmac

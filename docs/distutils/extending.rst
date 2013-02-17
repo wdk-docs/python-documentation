@@ -1,7 +1,7 @@
 .. _extending-distutils:
 
 *******************
-Extending Distutils
+扩展 Distutils
 *******************
 
 Distutils can be extended in various ways.  Most extensions take the form of new

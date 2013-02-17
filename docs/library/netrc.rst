@@ -1,5 +1,5 @@
 
-:mod:`netrc` --- netrc file processing
+:mod:`netrc` --- netrc文件处理
 ======================================
 
 .. module:: netrc

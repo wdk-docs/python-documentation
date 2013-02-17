@@ -1,4 +1,4 @@
-:mod:`subprocess` --- Subprocess management
+:mod:`subprocess` --- 子进程管理
 ===========================================
 
 .. module:: subprocess

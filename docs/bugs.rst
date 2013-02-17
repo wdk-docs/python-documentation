@@ -1,7 +1,7 @@
 .. _reporting-bugs:
 
 **************
-Reporting Bugs
+报告错误
 **************
 
 Python is a mature programming language which has established a reputation for
@@ -9,7 +9,7 @@ stability.  In order to maintain this reputation, the developers would like to
 know of any deficiencies you find in Python.
 
 
-Documentation bugs
+文档错误
 ==================
 
 If you find a bug in this documentation or would like to propose an improvement,
@@ -23,7 +23,7 @@ Of course, if you want a more persistent record of your issue, you can use the
 issue tracker for documentation bugs as well.
 
 
-Using the Python issue tracker
+使用Python问题跟踪器
 ==============================
 
 Bug reports for Python itself should be submitted via the Python Bug Tracker

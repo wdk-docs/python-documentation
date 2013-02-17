@@ -1,7 +1,7 @@
 .. _curses-howto:
 
 **********************************
-  Curses Programming with Python
+  Python的curses编程
 **********************************
 
 :Author: A.M. Kuchling, Eric S. Raymond
@@ -14,7 +14,7 @@
    the :mod:`curses` extension module to control the display.
 
 
-What is curses?
+什么是curses?
 ===============
 
 The curses library supplies a terminal-independent screen-painting and
@@ -55,7 +55,7 @@ cursor-addressable text output, plus full support for mouse and keyboard input,
 and is available from http://effbot.org/zone/console-index.htm.
 
 
-The Python curses module
+Python curses 模块
 ------------------------
 
 Thy Python module is a fairly simple wrapper over the C functions provided by

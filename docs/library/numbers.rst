@@ -1,4 +1,4 @@
-:mod:`numbers` --- Numeric abstract base classes
+:mod:`numbers` --- 数字抽象基类
 ================================================
 
 .. module:: numbers

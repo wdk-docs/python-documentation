@@ -1,4 +1,4 @@
-:mod:`sqlite3` --- DB-API 2.0 interface for SQLite databases
+:mod:`sqlite3` --- SQLite数据库的DB-API 2.0接口
 ============================================================
 
 .. module:: sqlite3

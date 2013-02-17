@@ -1,4 +1,4 @@
-:mod:`io` --- Core tools for working with streams
+:mod:`io` --- 核心工作流的工具
 =================================================
 
 .. module:: io

@@ -1,4 +1,4 @@
-:mod:`codecs` --- Codec registry and base classes
+:mod:`codecs` --- 编解码器的注册表和基类
 =================================================
 
 .. module:: codecs

@@ -1,4 +1,4 @@
-:mod:`abc` --- Abstract Base Classes
+:mod:`abc` --- 抽象基类
 ====================================
 
 .. module:: abc

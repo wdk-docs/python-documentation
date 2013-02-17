@@ -1,4 +1,4 @@
-:mod:`http.cookiejar` --- Cookie handling for HTTP clients
+:mod:`http.cookiejar` --- HTTP客户端的cookie处理
 ==========================================================
 
 .. module:: http.cookiejar

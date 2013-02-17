@@ -1,6 +1,6 @@
 :keepdoctest:
 
-:mod:`doctest` --- Test interactive Python examples
+:mod:`doctest` --- 测试交互式的Python的例子
 ===================================================
 
 .. module:: doctest

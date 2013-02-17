@@ -1,4 +1,4 @@
-:mod:`xdrlib` --- Encode and decode XDR data
+:mod:`xdrlib` --- XDR数据编码和解码
 ============================================
 
 .. module:: xdrlib

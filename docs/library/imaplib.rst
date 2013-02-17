@@ -1,4 +1,4 @@
-:mod:`imaplib` --- IMAP4 protocol client
+:mod:`imaplib` --- IMAP4协议的客户端
 ========================================
 
 .. module:: imaplib

@@ -1,6 +1,6 @@
 .. highlightlang:: c
 
-Old Buffer Protocol
+旧的缓冲协议
 -------------------
 
 .. deprecated:: 3.0

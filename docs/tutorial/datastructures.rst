@@ -9,7 +9,7 @@ and adds some new things as well.
 
 .. _tut-morelists:
 
-More on Lists
+更多关于列表
 =============
 
 The list data type has some more methods.  Here are all of the methods of list
@@ -107,7 +107,7 @@ is a design principle for all mutable data structures in Python.
 
 .. _tut-lists-as-stacks:
 
-Using Lists as Stacks
+使用列表作为堆栈
 ---------------------
 
 .. sectionauthor:: Ka-Ping Yee <ping@lfw.org>
@@ -137,7 +137,7 @@ top of the stack, use :meth:`pop` without an explicit index.  For example::
 
 .. _tut-lists-as-queues:
 
-Using Lists as Queues
+使用列表队列
 ---------------------
 
 .. sectionauthor:: Ka-Ping Yee <ping@lfw.org>
@@ -165,7 +165,7 @@ have fast appends and pops from both ends.  For example::
 
 .. _tut-listcomps:
 
-List Comprehensions
+列表解析
 -------------------
 
 List comprehensions provide a concise way to create lists.
@@ -250,7 +250,7 @@ List comprehensions can contain complex expressions and nested functions::
    >>> [str(round(pi, i)) for i in range(1, 6)]
    ['3.1', '3.14', '3.142', '3.1416', '3.14159']
 
-Nested List Comprehensions
+潜逃列表理解
 --------------------------
 
 The initial expression in a list comprehension can be any arbitrary expression,
@@ -304,7 +304,7 @@ See :ref:`tut-unpacking-arguments` for details on the asterisk in this line.
 
 .. _tut-del:
 
-The :keyword:`del` statement
+:keyword:`del` 语句
 ============================
 
 There is a way to remove an item from a list given its index instead of its
@@ -334,7 +334,7 @@ is assigned to it).  We'll find other uses for :keyword:`del` later.
 
 .. _tut-tuples:
 
-Tuples and Sequences
+元组和序列
 ====================
 
 We saw that lists and strings have many common properties, such as indexing and
@@ -410,8 +410,8 @@ packing and sequence unpacking.
 
 .. _tut-sets:
 
-Sets
-====
+设置
+==========
 
 Python also includes a data type for *sets*.  A set is an unordered collection
 with no duplicate elements.  Basic uses include membership testing and
@@ -457,7 +457,7 @@ are also supported::
 
 .. _tut-dictionaries:
 
-Dictionaries
+字典
 ============
 
 Another useful data type built into Python is the *dictionary* (see
@@ -530,7 +530,7 @@ keyword arguments::
 
 .. _tut-loopidioms:
 
-Looping Techniques
+循环技巧
 ==================
 
 When looping through dictionaries, the key and corresponding value can be
@@ -605,7 +605,7 @@ notation makes this especially convenient::
 
 .. _tut-conditions:
 
-More on Conditions
+深入条件控制
 ==================
 
 The conditions used in ``while`` and ``if`` statements can contain any
@@ -650,7 +650,7 @@ intended.
 
 .. _tut-comparing:
 
-Comparing Sequences and Other Types
+比较序列和其它类型
 ===================================
 
 Sequence objects may be compared to other objects with the same sequence type.

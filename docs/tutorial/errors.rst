@@ -11,7 +11,7 @@ distinguishable kinds of errors: *syntax errors* and *exceptions*.
 
 .. _tut-syntaxerrors:
 
-Syntax Errors
+语法错误
 =============
 
 Syntax errors, also known as parsing errors, are perhaps the most common kind of
@@ -33,7 +33,7 @@ know where to look in case the input came from a script.
 
 .. _tut-exceptions:
 
-Exceptions
+异常
 ==========
 
 Even if a statement or expression is syntactically correct, it may cause an
@@ -76,7 +76,7 @@ standard input.
 
 .. _tut-handling:
 
-Handling Exceptions
+处理异常
 ===================
 
 It is possible to write programs that handle selected exceptions. Look at the
@@ -206,7 +206,7 @@ indirectly) in the try clause. For example::
 
 .. _tut-raising:
 
-Raising Exceptions
+抛出异常
 ==================
 
 The :keyword:`raise` statement allows the programmer to force a specified
@@ -239,7 +239,7 @@ re-raise the exception::
 
 .. _tut-userexceptions:
 
-User-defined Exceptions
+用户自定义异常
 =======================
 
 Programs may name their own exceptions by creating a new exception class (see
@@ -316,7 +316,7 @@ chapter :ref:`tut-classes`.
 
 .. _tut-cleanup:
 
-Defining Clean-up Actions
+定义清理行为
 =========================
 
 The :keyword:`try` statement has another optional clause which is intended to
@@ -378,7 +378,7 @@ of whether the use of the resource was successful.
 
 .. _tut-cleanup-with:
 
-Predefined Clean-up Actions
+预定义清理行为
 ===========================
 
 Some objects define standard clean-up actions to be undertaken when the object

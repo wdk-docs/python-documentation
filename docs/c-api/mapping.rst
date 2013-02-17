@@ -2,7 +2,7 @@
 
 .. _mapping:
 
-Mapping Protocol
+映射协议
 ================
 
 

@@ -1,5 +1,5 @@
 =====================
-About these documents
+关于本文档
 =====================
 
 
@@ -30,7 +30,7 @@ See :ref:`reporting-bugs` for information how to report bugs in this
 documentation, or Python itself.
 
 
-Contributors to the Python Documentation
+给Python文档贡献内容
 ----------------------------------------
 
 Many people have contributed to the Python language, the Python standard

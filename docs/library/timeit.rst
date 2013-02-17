@@ -1,4 +1,4 @@
-:mod:`timeit` --- Measure execution time of small code snippets
+:mod:`timeit` --- 测量小的代码段的执行时间
 ===============================================================
 
 .. module:: timeit

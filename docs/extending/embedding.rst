@@ -4,7 +4,7 @@
 .. _embedding:
 
 ***************************************
-Embedding Python in Another Application
+在另一个应用中嵌入Python
 ***************************************
 
 The previous chapters discussed how to extend Python, that is, how to extend the

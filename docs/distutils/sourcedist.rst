@@ -1,7 +1,7 @@
 .. _source-dist:
 
 ******************************
-Creating a Source Distribution
+创建一个源代码分发
 ******************************
 
 As shown in section :ref:`distutils-simple-example`, you use the :command:`sdist` command

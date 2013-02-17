@@ -11,7 +11,7 @@ discuss some of the possibilities.
 
 .. _tut-formatting:
 
-Fancier Output Formatting
+设计输出格式
 =========================
 
 So far we've encountered two ways of writing values: *expression statements* and
@@ -201,7 +201,7 @@ For a complete overview of string formatting with :meth:`str.format`, see
 :ref:`formatstrings`.
 
 
-Old string formatting
+旧式字符窜格式化
 ---------------------
 
 The ``%`` operator can also be used for string formatting. It interprets the
@@ -222,7 +222,7 @@ More information can be found in the :ref:`old-string-formatting` section.
 
 .. _tut-files:
 
-Reading and Writing Files
+读写文件
 =========================
 
 .. index::
@@ -267,7 +267,7 @@ reading and writing such files.
 
 .. _tut-filemethods:
 
-Methods of File Objects
+文件方法对象
 -----------------------
 
 The rest of the examples in this section will assume that a file object called
@@ -389,7 +389,7 @@ Reference for a complete guide to file objects.
 
 .. _tut-pickle:
 
-The :mod:`pickle` Module
+:mod:`pickle` 模块
 ------------------------
 
 .. index:: module: pickle

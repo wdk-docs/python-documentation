@@ -1,4 +1,4 @@
-:mod:`mailcap` --- Mailcap file handling
+:mod:`mailcap` --- mailcap文件处理
 ========================================
 
 .. module:: mailcap
