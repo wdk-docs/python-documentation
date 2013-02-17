@@ -5,6 +5,7 @@
 :Author: Raymond Hettinger
 
 .. $Id$
+
 Rules for maintenance:
 
    * Anyone can add text to this document.  Do not spend very much time

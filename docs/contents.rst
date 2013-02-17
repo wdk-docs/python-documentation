@@ -5,7 +5,6 @@
 .. toctree::
    :maxdepth: 2
    
-   whatsnew/index.rst
    tutorial/index.rst
    using/index.rst
    reference/index.rst
@@ -18,6 +17,7 @@
    faq/index.rst
    glossary.rst
 
+   whatsnew/index.rst
    about.rst
    bugs.rst
    copyright.rst
